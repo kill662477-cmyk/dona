@@ -331,16 +331,125 @@
       }
 
       .rank-board {
-        grid-template-columns: 1fr;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 10px;
+      }
+
+      .rank-head {
+        display: none;
+      }
+
+      .rank-row {
+        grid-template-columns: 38px minmax(0, 1fr);
+        gap: 8px;
+        min-height: 0;
+        padding: 9px 10px;
+        align-items: start;
+      }
+
+      .rank-number {
+        width: 34px;
+        height: 34px;
+      }
+
+      .amount {
+        grid-column: 2;
+        margin-top: -1px;
+        text-align: left;
+      }
+    }
+
+    @media (max-width: 760px) {
+      .page {
+        width: min(100% - 10px, 1180px);
+      }
+
+      .rank-board {
+        gap: 6px;
+      }
+
+      .rank-column {
+        border-radius: 6px;
+      }
+
+      .column-title {
+        min-height: 36px;
+        padding: 0 8px;
+        font-size: 12px;
+      }
+
+      .column-title span {
+        display: none;
+      }
+
+      .rank-row {
+        grid-template-columns: 28px minmax(0, 1fr);
+        gap: 5px;
+        padding: 7px 6px;
+      }
+
+      .rank-number {
+        width: 26px;
+        height: 26px;
+        border-radius: 6px;
+        font-size: 12px;
+      }
+
+      .donor strong {
+        font-size: 12px;
+        line-height: 1.18;
+      }
+
+      .donor span,
+      .reason {
+        margin-top: 3px;
+        font-size: 9px;
+        line-height: 1.18;
+      }
+
+      .amount {
+        font-size: 11.5px;
+        line-height: 1.15;
+      }
+    }
+
+    @media (max-width: 380px) {
+      .rank-board {
+        gap: 5px;
+      }
+
+      .column-title {
+        padding: 0 6px;
+        font-size: 11px;
+      }
+
+      .rank-row {
+        grid-template-columns: 24px minmax(0, 1fr);
+        gap: 4px;
+        padding: 6px 5px;
+      }
+
+      .rank-number {
+        width: 23px;
+        height: 23px;
+        font-size: 11px;
+      }
+
+      .donor strong {
+        font-size: 11px;
+      }
+
+      .donor span,
+      .reason {
+        font-size: 8px;
+      }
+
+      .amount {
+        font-size: 10px;
       }
     }
 
     @media (max-width: 680px) {
-      .page {
-        width: min(100% - 18px, 1180px);
-        padding-top: 12px;
-      }
-
       .topbar {
         align-items: flex-start;
         flex-direction: column;
@@ -355,30 +464,6 @@
       .summary-panel {
         grid-template-columns: 1fr;
         gap: 7px;
-      }
-
-      .rank-head {
-        display: none;
-      }
-
-      .rank-row {
-        grid-template-columns: 44px minmax(0, 1fr);
-        gap: 10px;
-        min-height: 0;
-      }
-
-      .amount {
-        grid-column: 2;
-        text-align: left;
-      }
-
-      .amount {
-        margin-top: -2px;
-      }
-
-      .rank-number {
-        width: 38px;
-        height: 38px;
       }
 
       .footer {
