@@ -210,8 +210,8 @@
     .rank-head,
     .rank-row {
       display: grid;
-      grid-template-columns: 52px minmax(120px, 1fr) 124px 64px;
-      gap: 10px;
+      grid-template-columns: 52px minmax(0, 1fr) 158px;
+      gap: 12px;
       align-items: center;
     }
 
@@ -222,6 +222,10 @@
       font-size: 11px;
       font-weight: 950;
       text-transform: uppercase;
+    }
+
+    .rank-head span:last-child {
+      text-align: right;
     }
 
     .rank-row {
@@ -291,7 +295,6 @@
       text-align: right;
     }
 
-    .count,
     .date {
       display: none;
       color: #d6e4f6;
@@ -364,18 +367,13 @@
         min-height: 0;
       }
 
-      .amount,
-      .count {
+      .amount {
         grid-column: 2;
         text-align: left;
       }
 
       .amount {
         margin-top: -2px;
-      }
-
-      .count {
-        color: var(--muted);
       }
 
       .rank-number {
@@ -428,7 +426,6 @@
           <span>순위</span>
           <span>회원</span>
           <span>누적 기부</span>
-          <span>횟수</span>
         </div>
         <div id="rankListLeft" class="loading">랭킹 데이터를 불러오는 중입니다.</div>
       </section>
@@ -439,7 +436,6 @@
           <span>순위</span>
           <span>회원</span>
           <span>누적 기부</span>
-          <span>횟수</span>
         </div>
         <div id="rankListRight" class="loading">랭킹 데이터를 불러오는 중입니다.</div>
       </section>
@@ -497,7 +493,6 @@
               <span class="reason">${escapeHtml(row.latestReason || "최근 사유 없음")}</span>
             </div>
             <div class="amount">${formatMineral(row.totalMineral)}</div>
-            <div class="count">${formatMineral(row.donationCount)}회</div>
             <div class="date">${escapeHtml(row.latestDateText || "-")}</div>
           </article>
         `)
