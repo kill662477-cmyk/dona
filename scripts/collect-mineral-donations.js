@@ -22,7 +22,7 @@ async function fetchWithTimeout(url) {
       signal: controller.signal,
       headers: {
         "user-agent":
-          "Mozilla/5.0 (compatible; MonstarzMineralRank/1.0; +https://monstarznew.vercel.app/)",
+          "Mozilla/5.0 (compatible; DonaMineralRank/1.0; +https://github.com/kill662477-cmyk/dona)",
         accept: "text/html,application/xhtml+xml",
       },
     });
@@ -137,7 +137,7 @@ function makeRanking(rows) {
   for (const row of rows) {
     const donor = donors.get(row.memberId) || {
       memberId: row.memberId,
-      nickname: row.nickname || `회원 ${row.memberId}`,
+      nickname: row.nickname || `member ${row.memberId}`,
       totalMineral: 0,
       donationCount: 0,
       latestDateText: row.dateText,
@@ -162,6 +162,34 @@ function makeRanking(rows) {
       rank: index + 1,
       ...donor,
     }));
+}
+
+function comparablePayload(payload) {
+  if (!payload) return null;
+
+  return {
+    sourceName: payload.sourceName,
+    sourceUrl: payload.sourceUrl,
+    currentStorage: payload.currentStorage,
+    summary: payload.summary,
+    ranking: payload.ranking,
+  };
+}
+
+async function readExistingPayload() {
+  try {
+    return JSON.parse(await fs.readFile(OUTPUT_PATH, "utf8"));
+  } catch (error) {
+    if (error.code === "ENOENT") return null;
+    throw error;
+  }
+}
+
+function hasMeaningfulChanges(previousPayload, nextPayload) {
+  return (
+    JSON.stringify(comparablePayload(previousPayload)) !==
+    JSON.stringify(comparablePayload(nextPayload))
+  );
 }
 
 async function main() {
@@ -222,7 +250,7 @@ async function main() {
   const ranking = makeRanking(donationRows);
   const totalDonatedMineral = donationRows.reduce((sum, row) => sum + row.amount, 0);
   const payload = {
-    sourceName: "와이고수 스타대학 미네랄창고",
+    sourceName: "\uC640\uC774\uACE0\uC218 \uC2A4\uD0C0\uB300\uD559 \uBBF8\uB124\uB784\uCC3D\uACE0",
     sourceUrl: SOURCE_URL,
     collectedAt: new Date().toISOString(),
     currentStorage,
@@ -242,6 +270,17 @@ async function main() {
     },
     ranking: ranking.slice(0, 100),
   };
+
+  const existingPayload = await readExistingPayload();
+  if (!hasMeaningfulChanges(existingPayload, payload)) {
+    console.log(
+      `[mineral] no ranking/storage changes. keep ${path.relative(
+        process.cwd(),
+        OUTPUT_PATH
+      )} untouched.`
+    );
+    return;
+  }
 
   await fs.mkdir(path.dirname(OUTPUT_PATH), { recursive: true });
   await fs.writeFile(OUTPUT_PATH, `${JSON.stringify(payload, null, 2)}\n`, "utf8");

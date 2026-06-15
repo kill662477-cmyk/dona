@@ -86,13 +86,20 @@
       min-width: 0;
     }
 
-    .brand img {
+    .brand-mark {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
       width: 42px;
       height: 42px;
-      object-fit: contain;
       border-radius: 8px;
       border: 1px solid var(--line);
-      background: #050911;
+      background: linear-gradient(135deg, rgba(245, 185, 78, .18), rgba(103, 183, 255, .09));
+      color: #fff7df;
+      font-size: 15px;
+      font-weight: 950;
+      letter-spacing: 0;
+      box-shadow: inset 0 0 0 1px rgba(255, 255, 255, .05);
     }
 
     .brand strong {
@@ -119,18 +126,8 @@
       background: rgba(255, 255, 255, .04);
     }
 
-    .board {
-      display: grid;
-      grid-template-columns: minmax(0, 1fr) 330px;
-      gap: 16px;
-      margin-top: 18px;
-      align-items: stretch;
-    }
-
-    .hero,
-    .stat-panel,
-    .rank-panel,
-    .note-panel {
+    .summary-panel,
+    .rank-column {
       border: 1px solid var(--line);
       border-radius: 8px;
       background: var(--panel);
@@ -138,162 +135,88 @@
       backdrop-filter: blur(18px);
     }
 
-    .hero {
-      min-height: 236px;
-      padding: 22px;
-      display: flex;
-      flex-direction: column;
-      justify-content: space-between;
-      overflow: hidden;
-      background:
-        linear-gradient(125deg, rgba(245, 185, 78, .18), transparent 40%),
-        linear-gradient(180deg, rgba(18, 39, 63, .92), rgba(7, 16, 29, .96));
-    }
-
-    .eyebrow {
-      display: inline-flex;
-      width: fit-content;
-      align-items: center;
+    .summary-panel {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
       gap: 8px;
-      min-height: 28px;
-      padding: 0 10px;
-      border: 1px solid rgba(245, 185, 78, .32);
-      border-radius: 8px;
-      color: #ffe4a7;
-      background: rgba(245, 185, 78, .08);
-      font-size: 12px;
-      font-weight: 950;
+      margin-top: 18px;
+      padding: 10px;
+      background: linear-gradient(180deg, rgba(18, 39, 63, .72), rgba(7, 16, 29, .88));
     }
 
-    .eyebrow::before {
-      content: "";
-      width: 7px;
-      height: 7px;
-      border-radius: 50%;
-      background: var(--green);
-      box-shadow: 0 0 16px rgba(88, 214, 141, .86);
-    }
-
-    h1 {
-      margin: 18px 0 0;
-      max-width: 760px;
-      font-size: clamp(34px, 6vw, 72px);
-      line-height: .96;
-      letter-spacing: 0;
-    }
-
-    .hero-copy {
-      display: flex;
-      align-items: end;
-      justify-content: space-between;
-      gap: 16px;
-      margin-top: 22px;
-      color: #c7d4e4;
-      font-size: 14px;
-      font-weight: 750;
-      line-height: 1.55;
-    }
-
-    .hero-copy p {
-      max-width: 650px;
-      margin: 0;
-    }
-
-    .updated {
-      flex: 0 0 auto;
-      min-width: 185px;
-      padding: 10px 12px;
-      border: 1px solid rgba(255, 255, 255, .12);
-      border-radius: 8px;
-      background: rgba(0, 0, 0, .18);
-      text-align: right;
-    }
-
-    .updated span {
-      display: block;
-      color: var(--muted);
-      font-size: 11px;
-      font-weight: 850;
-    }
-
-    .updated b {
-      display: block;
-      margin-top: 4px;
-      color: #fff;
-      font-size: 13px;
-    }
-
-    .side {
-      display: grid;
-      gap: 12px;
-    }
-
-    .stat-panel,
-    .note-panel {
-      padding: 14px;
-    }
-
-    .stat-list {
-      display: grid;
-      gap: 9px;
-    }
-
-    .stat {
-      min-height: 78px;
+    .summary-item {
+      min-height: 70px;
       padding: 12px;
       border: 1px solid rgba(255, 255, 255, .08);
       border-radius: 8px;
       background: rgba(255, 255, 255, .045);
     }
 
-    .stat span {
+    .summary-item span {
       display: block;
       color: var(--muted);
       font-size: 11px;
       font-weight: 900;
     }
 
-    .stat b {
+    .summary-item b {
       display: block;
       margin-top: 7px;
-      font-size: 24px;
-      line-height: 1;
       color: #fff;
+      font-size: 22px;
+      line-height: 1;
     }
 
-    .stat.gold b {
+    .summary-item.gold b {
       color: var(--gold);
     }
 
-    .note-panel h2 {
-      margin: 0 0 8px;
-      font-size: 15px;
+    .summary-item.small b {
+      font-size: 13px;
+      line-height: 1.35;
     }
 
-    .note-panel p {
-      margin: 0;
-      color: var(--muted);
-      font-size: 12px;
-      font-weight: 750;
-      line-height: 1.55;
-    }
-
-    .rank-panel {
+    .rank-board {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 16px;
       margin-top: 16px;
+      align-items: start;
+    }
+
+    .rank-column {
       overflow: hidden;
       background: var(--panel-2);
+    }
+
+    .column-title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      min-height: 46px;
+      padding: 0 15px;
+      border-bottom: 1px solid var(--line);
+      color: #fff;
+      font-size: 15px;
+      font-weight: 950;
+    }
+
+    .column-title span {
+      color: var(--muted);
+      font-size: 11px;
+      font-weight: 850;
     }
 
     .rank-head,
     .rank-row {
       display: grid;
-      grid-template-columns: 72px minmax(180px, 1fr) 170px 110px 180px;
-      gap: 12px;
+      grid-template-columns: 52px minmax(120px, 1fr) 124px 64px;
+      gap: 10px;
       align-items: center;
     }
 
     .rank-head {
-      padding: 13px 18px;
+      padding: 11px 14px;
       border-bottom: 1px solid var(--line);
       color: var(--muted);
       font-size: 11px;
@@ -302,8 +225,8 @@
     }
 
     .rank-row {
-      min-height: 72px;
-      padding: 12px 18px;
+      min-height: 68px;
+      padding: 10px 14px;
       border-bottom: 1px solid rgba(255, 255, 255, .07);
       transition: background .18s ease, transform .18s ease;
     }
@@ -320,8 +243,8 @@
       display: flex;
       align-items: center;
       justify-content: center;
-      width: 42px;
-      height: 42px;
+      width: 38px;
+      height: 38px;
       border: 1px solid rgba(255, 255, 255, .12);
       border-radius: 8px;
       color: #dfe9f7;
@@ -343,7 +266,7 @@
       display: block;
       overflow: hidden;
       color: #fff;
-      font-size: 17px;
+      font-size: 15px;
       font-weight: 950;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -363,13 +286,14 @@
 
     .amount {
       color: var(--gold);
-      font-size: 18px;
+      font-size: 15px;
       font-weight: 950;
       text-align: right;
     }
 
     .count,
     .date {
+      display: none;
       color: #d6e4f6;
       font-size: 13px;
       font-weight: 850;
@@ -398,27 +322,13 @@
       font-weight: 750;
     }
 
-    @media (max-width: 980px) {
-      .board {
+    @media (max-width: 1040px) {
+      .summary-panel {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .rank-board {
         grid-template-columns: 1fr;
-      }
-
-      .side {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-      }
-
-      .note-panel {
-        grid-column: 1 / -1;
-      }
-
-      .rank-head,
-      .rank-row {
-        grid-template-columns: 58px minmax(150px, 1fr) 145px 84px;
-      }
-
-      .rank-head .date-label,
-      .rank-row .date {
-        display: none;
       }
     }
 
@@ -439,23 +349,9 @@
         justify-content: center;
       }
 
-      .hero {
-        min-height: 0;
-        padding: 16px;
-      }
-
-      .hero-copy {
-        align-items: stretch;
-        flex-direction: column;
-      }
-
-      .updated {
-        min-width: 0;
-        text-align: left;
-      }
-
-      .side {
+      .summary-panel {
         grid-template-columns: 1fr;
+        gap: 7px;
       }
 
       .rank-head {
@@ -497,7 +393,7 @@
   <div class="page">
     <header class="topbar">
       <a class="brand" href="./">
-        <img src="./assets/logo-dark.png" alt="MONSTARZ" />
+        <span class="brand-mark" aria-hidden="true">MZ</span>
         <span>
           <strong>스대게 미네랄 기부 랭킹</strong>
           <span>회원번호 기준 누적 TOP 100</span>
@@ -506,54 +402,47 @@
       <a class="source-link" href="https://ygosu.com/board/pan_monstarz/?mode=mineral_storage" target="_blank" rel="noopener">원본 창고 보기</a>
     </header>
 
-    <section class="board" aria-label="미네랄 기부 요약">
-      <div class="hero">
-        <div>
-          <span class="eyebrow">DAILY SYNC</span>
-          <h1>기부만 모아서, 닉변은 회원번호로 정리.</h1>
-        </div>
-        <div class="hero-copy">
-          <p>와이고수 미네랄 창고 내역에서 선물, 출금 수수료, 게시판 보상을 제외하고 회원이 창고에 넣은 플러스 내역만 누적합니다.</p>
-          <div class="updated">
-            <span>마지막 갱신</span>
-            <b id="updatedAt">불러오는 중</b>
-          </div>
-        </div>
+    <section class="summary-panel" aria-label="미네랄 기부 요약">
+      <div class="summary-item gold">
+        <span>누적 기부 미네랄</span>
+        <b id="totalDonated">-</b>
       </div>
-
-      <aside class="side" aria-label="수집 상태">
-        <div class="stat-panel">
-          <div class="stat-list">
-            <div class="stat gold">
-              <span>누적 기부 미네랄</span>
-              <b id="totalDonated">-</b>
-            </div>
-            <div class="stat">
-              <span>기부 회원</span>
-              <b id="donorCount">-</b>
-            </div>
-            <div class="stat">
-              <span>현재 창고</span>
-              <b id="storageAmount">-</b>
-            </div>
-          </div>
-        </div>
-        <div class="note-panel">
-          <h2>집계 기준</h2>
-          <p>회원번호로 합산하고, 표시 닉네임은 가장 최근 기부 내역의 닉네임을 사용합니다.</p>
-        </div>
-      </aside>
+      <div class="summary-item">
+        <span>기부 회원</span>
+        <b id="donorCount">-</b>
+      </div>
+      <div class="summary-item">
+        <span>현재 창고</span>
+        <b id="storageAmount">-</b>
+      </div>
+      <div class="summary-item small">
+        <span>마지막 갱신</span>
+        <b id="updatedAt">불러오는 중</b>
+      </div>
     </section>
 
-    <section class="rank-panel" aria-label="기부 랭킹 100위">
-      <div class="rank-head">
-        <span>순위</span>
-        <span>회원</span>
-        <span>누적 기부</span>
-        <span>횟수</span>
-        <span class="date-label">최근 기부</span>
-      </div>
-      <div id="rankList" class="loading">랭킹 데이터를 불러오는 중입니다.</div>
+    <section class="rank-board" aria-label="기부 랭킹 100위">
+      <section class="rank-column" aria-label="기부 랭킹 1위부터 50위">
+        <div class="column-title">1위-50위 <span>상위권</span></div>
+        <div class="rank-head">
+          <span>순위</span>
+          <span>회원</span>
+          <span>누적 기부</span>
+          <span>횟수</span>
+        </div>
+        <div id="rankListLeft" class="loading">랭킹 데이터를 불러오는 중입니다.</div>
+      </section>
+
+      <section class="rank-column" aria-label="기부 랭킹 51위부터 100위">
+        <div class="column-title">51위-100위 <span>추격권</span></div>
+        <div class="rank-head">
+          <span>순위</span>
+          <span>회원</span>
+          <span>누적 기부</span>
+          <span>횟수</span>
+        </div>
+        <div id="rankListRight" class="loading">랭킹 데이터를 불러오는 중입니다.</div>
+      </section>
     </section>
 
     <footer class="footer">
@@ -587,15 +476,18 @@
         .replace(/"/g, "&quot;")
         .replace(/'/g, "&#39;");
 
-    function renderRows(rows) {
+    function renderColumn(targetId, rows) {
+      const target = $(targetId);
+      if (!target) return;
+
       if (!rows.length) {
-        $("rankList").className = "loading";
-        $("rankList").textContent = "아직 표시할 기부 내역이 없습니다.";
+        target.className = "loading";
+        target.textContent = "아직 표시할 기부 내역이 없습니다.";
         return;
       }
 
-      $("rankList").className = "";
-      $("rankList").innerHTML = rows
+      target.className = "";
+      target.innerHTML = rows
         .map((row) => `
           <article class="rank-row ${row.rank <= 3 ? "top" : ""}">
             <div class="rank-number">${row.rank}</div>
@@ -610,6 +502,11 @@
           </article>
         `)
         .join("");
+    }
+
+    function renderRows(rows) {
+      renderColumn("rankListLeft", rows.slice(0, 50));
+      renderColumn("rankListRight", rows.slice(50, 100));
     }
 
     async function loadRanking() {
@@ -627,8 +524,10 @@
       } catch (error) {
         console.error(error);
         $("updatedAt").textContent = "-";
-        $("rankList").className = "error";
-        $("rankList").textContent = "랭킹 데이터를 불러오지 못했습니다.";
+        ["rankListLeft", "rankListRight"].forEach((targetId) => {
+          $(targetId).className = "error";
+          $(targetId).textContent = "랭킹 데이터를 불러오지 못했습니다.";
+        });
         $("scanInfo").textContent = "data/mineral-donations.json 확인 필요";
       }
     }
