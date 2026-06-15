@@ -1,0 +1,42 @@
+name: Collect Mineral Donations
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 18 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  collect-mineral-donations:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Collect mineral donation ranking
+        run: node scripts/collect-mineral-donations.js
+        env:
+          MINERAL_MAX_PAGES: "700"
+          MINERAL_REQUEST_DELAY_MS: "120"
+          MINERAL_REQUEST_TIMEOUT_MS: "30000"
+
+      - name: Commit updated ranking data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mineral-donations.json
+          if git diff --cached --quiet; then
+            echo "No mineral ranking changes."
+          else
+            git commit -m "Update mineral donation ranking"
+            git push
+          fi
