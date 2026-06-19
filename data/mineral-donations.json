@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-06-18T20:40:49.721Z",
+  "collectedAt": "2026-06-19T20:04:42.952Z",
   "currentStorage": {
-    "text": "11,218,966,790",
-    "mineral": 11218966790
+    "text": "11,215,437,693",
+    "mineral": 11215437693
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 559,
-    "rowsScanned": 7482,
-    "donationRows": 862,
-    "duplicateRowsSkipped": 883
+    "pagesScanned": 563,
+    "rowsScanned": 7522,
+    "donationRows": 865,
+    "duplicateRowsSkipped": 887
   },
   "summary": {
     "donorCount": 325,
-    "totalDonatedMineral": 55845533533,
-    "top100TotalMineral": 48943342762
+    "totalDonatedMineral": 56361004436,
+    "top100TotalMineral": 49349126144
   },
   "ranking": [
     {
@@ -81,6 +81,16 @@
     },
     {
       "rank": 7,
+      "memberId": "703365",
+      "nickname": "유난이삐져또",
+      "totalMineral": 1226800000,
+      "donationCount": 11,
+      "latestDateText": "26-06-19 (금) 12:05",
+      "latestReason": "총 2억 이벤트",
+      "firstDateText": "26-03-07 (토) 16:25"
+    },
+    {
+      "rank": 8,
       "memberId": "607616",
       "nickname": "류류한",
       "totalMineral": 1103870602,
@@ -90,7 +100,7 @@
       "firstDateText": "25-08-16 (토) 23:54"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "memberId": "560510",
       "nickname": "미마루",
       "totalMineral": 1000110162,
@@ -100,7 +110,7 @@
       "firstDateText": "25-10-31 (금) 21:33"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "memberId": "666444",
       "nickname": "^____^",
       "totalMineral": 979037278,
@@ -108,16 +118,6 @@
       "latestDateText": "26-05-26 (화) 18:35",
       "latestReason": "와접, 탈퇴 일주일 뒤에 할 예정",
       "firstDateText": "25-07-20 (일) 16:12"
-    },
-    {
-      "rank": 10,
-      "memberId": "703365",
-      "nickname": "유난이삐져또",
-      "totalMineral": 926800000,
-      "donationCount": 10,
-      "latestDateText": "26-06-13 (토) 00:44",
-      "latestReason": "폭탄공장막긴혀따 오천만 전달 해주세요…",
-      "firstDateText": "26-03-07 (토) 16:25"
     },
     {
       "rank": 11,
@@ -731,6 +731,16 @@
     },
     {
       "rank": 72,
+      "memberId": "580145",
+      "nickname": "오성이요",
+      "totalMineral": 177470903,
+      "donationCount": 2,
+      "latestDateText": "26-06-19 (금) 12:06",
+      "latestReason": "",
+      "firstDateText": "26-06-16 (화) 08:11"
+    },
+    {
+      "rank": 73,
       "memberId": "665643",
       "nickname": "악당입니다",
       "totalMineral": 176277517,
@@ -740,7 +750,7 @@
       "firstDateText": "26-05-12 (화) 12:06"
     },
     {
-      "rank": 73,
+      "rank": 74,
       "memberId": "700683",
       "nickname": "파일런qw",
       "totalMineral": 174169045,
@@ -750,7 +760,7 @@
       "firstDateText": "26-05-03 (일) 21:40"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "memberId": "703777",
       "nickname": "야수의호흡",
       "totalMineral": 170000000,
@@ -760,7 +770,7 @@
       "firstDateText": "26-02-05 (목) 23:11"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "memberId": "669998",
       "nickname": "고속충전",
       "totalMineral": 163278643,
@@ -770,7 +780,7 @@
       "firstDateText": "26-01-15 (목) 22:19"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "memberId": "699008",
       "nickname": "낙수다낙수",
       "totalMineral": 153700000,
@@ -780,7 +790,7 @@
       "firstDateText": "25-06-10 (화) 13:40"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "memberId": "699086",
       "nickname": "사랑의매",
       "totalMineral": 153556789,
@@ -790,7 +800,7 @@
       "firstDateText": "25-06-24 (화) 00:15"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "memberId": "704807",
       "nickname": "뮤라리",
       "totalMineral": 153399231,
@@ -800,7 +810,7 @@
       "firstDateText": "26-05-11 (월) 17:06"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "memberId": "625081",
       "nickname": "암드레김의원단",
       "totalMineral": 151023611,
@@ -810,7 +820,7 @@
       "firstDateText": "25-06-24 (화) 00:15"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "memberId": "697691",
       "nickname": "따뜨리",
       "totalMineral": 150649775,
@@ -820,7 +830,17 @@
       "firstDateText": "26-05-04 (월) 23:22"
     },
     {
-      "rank": 81,
+      "rank": 82,
+      "memberId": "703097",
+      "nickname": "똥물바지",
+      "totalMineral": 150000001,
+      "donationCount": 2,
+      "latestDateText": "26-06-19 (금) 12:05",
+      "latestReason": "관리자 좆대로 뿌리셈",
+      "firstDateText": "26-05-04 (월) 08:05"
+    },
+    {
+      "rank": 83,
       "memberId": "701770",
       "nickname": "갸웃빼곰",
       "totalMineral": 150000000,
@@ -830,7 +850,7 @@
       "firstDateText": "26-03-04 (수) 16:50"
     },
     {
-      "rank": 82,
+      "rank": 84,
       "memberId": "703514",
       "nickname": "ldaipar",
       "totalMineral": 146492981,
@@ -840,7 +860,7 @@
       "firstDateText": "26-03-26 (목) 02:30"
     },
     {
-      "rank": 83,
+      "rank": 85,
       "memberId": "542179",
       "nickname": "술좋아하는사람",
       "totalMineral": 146000000,
@@ -850,7 +870,7 @@
       "firstDateText": "26-05-04 (월) 21:42"
     },
     {
-      "rank": 84,
+      "rank": 86,
       "memberId": "703674",
       "nickname": "딸기모찌_",
       "totalMineral": 140875378,
@@ -860,7 +880,7 @@
       "firstDateText": "26-01-10 (토) 14:00"
     },
     {
-      "rank": 85,
+      "rank": 87,
       "memberId": "430844",
       "nickname": "Soulloufe",
       "totalMineral": 139826426,
@@ -870,7 +890,7 @@
       "firstDateText": "26-05-04 (월) 14:28"
     },
     {
-      "rank": 86,
+      "rank": 88,
       "memberId": "682420",
       "nickname": "해린이",
       "totalMineral": 138788712,
@@ -880,7 +900,7 @@
       "firstDateText": "25-05-16 (금) 00:31"
     },
     {
-      "rank": 87,
+      "rank": 89,
       "memberId": "697342",
       "nickname": "Tierney",
       "totalMineral": 135002904,
@@ -890,7 +910,7 @@
       "firstDateText": "26-01-31 (토) 20:10"
     },
     {
-      "rank": 88,
+      "rank": 90,
       "memberId": "672089",
       "nickname": "팬텀드리블",
       "totalMineral": 133433333,
@@ -900,7 +920,7 @@
       "firstDateText": "25-06-14 (토) 18:57"
     },
     {
-      "rank": 89,
+      "rank": 91,
       "memberId": "700988",
       "nickname": "꼴이좋아",
       "totalMineral": 131989125,
@@ -910,7 +930,7 @@
       "firstDateText": "26-01-14 (수) 20:00"
     },
     {
-      "rank": 90,
+      "rank": 92,
       "memberId": "703756",
       "nickname": "제랄",
       "totalMineral": 130200000,
@@ -920,7 +940,7 @@
       "firstDateText": "26-01-13 (화) 18:09"
     },
     {
-      "rank": 91,
+      "rank": 93,
       "memberId": "670146",
       "nickname": "42.195km",
       "totalMineral": 124155260,
@@ -930,7 +950,7 @@
       "firstDateText": "25-06-24 (화) 02:10"
     },
     {
-      "rank": 92,
+      "rank": 94,
       "memberId": "570030",
       "nickname": "유혜디",
       "totalMineral": 122104858,
@@ -940,7 +960,7 @@
       "firstDateText": "26-05-04 (월) 08:15"
     },
     {
-      "rank": 93,
+      "rank": 95,
       "memberId": "678199",
       "nickname": "408주종발효",
       "totalMineral": 120414622,
@@ -950,7 +970,7 @@
       "firstDateText": "25-05-20 (화) 10:30"
     },
     {
-      "rank": 94,
+      "rank": 96,
       "memberId": "696771",
       "nickname": "초효율",
       "totalMineral": 115925848,
@@ -960,7 +980,7 @@
       "firstDateText": "26-01-27 (화) 02:34"
     },
     {
-      "rank": 95,
+      "rank": 97,
       "memberId": "675753",
       "nickname": "내꿈은츠정잉",
       "totalMineral": 115000000,
@@ -970,7 +990,7 @@
       "firstDateText": "26-05-04 (월) 23:05"
     },
     {
-      "rank": 96,
+      "rank": 98,
       "memberId": "704866",
       "nickname": "츠캄토랑",
       "totalMineral": 113945521,
@@ -980,7 +1000,7 @@
       "firstDateText": "26-05-05 (화) 14:14"
     },
     {
-      "rank": 97,
+      "rank": 99,
       "memberId": "703893",
       "nickname": "와피고후랄",
       "totalMineral": 112800000,
@@ -990,17 +1010,7 @@
       "firstDateText": "26-03-26 (목) 19:24"
     },
     {
-      "rank": 98,
-      "memberId": "580145",
-      "nickname": "오성이요",
-      "totalMineral": 112000000,
-      "donationCount": 1,
-      "latestDateText": "26-06-16 (화) 08:11",
-      "latestReason": "",
-      "firstDateText": "26-06-16 (화) 08:11"
-    },
-    {
-      "rank": 99,
+      "rank": 100,
       "memberId": "699955",
       "nickname": "윤암센세",
       "totalMineral": 111591236,
@@ -1008,16 +1018,6 @@
       "latestDateText": "26-03-26 (목) 09:25",
       "latestReason": "다들 잘 있어라",
       "firstDateText": "26-03-26 (목) 09:25"
-    },
-    {
-      "rank": 100,
-      "memberId": "699620",
-      "nickname": "Calm=Halm",
-      "totalMineral": 109687522,
-      "donationCount": 1,
-      "latestDateText": "25-11-08 (토) 18:41",
-      "latestReason": "스대게 이쁜애들 이벤트해주셈",
-      "firstDateText": "25-11-08 (토) 18:41"
     }
   ]
 }
