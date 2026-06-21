@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-06-20T19:55:25.069Z",
+  "collectedAt": "2026-06-21T20:02:19.195Z",
   "currentStorage": {
-    "text": "10,771,437,693",
-    "mineral": 10771437693
+    "text": "10,907,437,693",
+    "mineral": 10907437693
   },
   "scan": {
     "maxPages": 700,
     "pagesScanned": 563,
-    "rowsScanned": 7525,
-    "donationRows": 865,
-    "duplicateRowsSkipped": 896
+    "rowsScanned": 7530,
+    "donationRows": 866,
+    "duplicateRowsSkipped": 911
   },
   "summary": {
     "donorCount": 325,
-    "totalDonatedMineral": 56361004436,
-    "top100TotalMineral": 49349126144
+    "totalDonatedMineral": 56461004436,
+    "top100TotalMineral": 49449126144
   },
   "ranking": [
     {
@@ -141,6 +141,16 @@
     },
     {
       "rank": 13,
+      "memberId": "424461",
+      "nickname": "어나더스토리",
+      "totalMineral": 779221233,
+      "donationCount": 7,
+      "latestDateText": "26-06-21 (일) 10:00",
+      "latestReason": "",
+      "firstDateText": "26-01-14 (수) 20:18"
+    },
+    {
+      "rank": 14,
       "memberId": "702830",
       "nickname": "대함민국",
       "totalMineral": 752158163,
@@ -150,7 +160,7 @@
       "firstDateText": "26-05-24 (일) 16:45"
     },
     {
-      "rank": 14,
+      "rank": 15,
       "memberId": "560984",
       "nickname": "기다리는사람임",
       "totalMineral": 707381619,
@@ -160,7 +170,7 @@
       "firstDateText": "26-02-11 (수) 19:57"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "memberId": "700680",
       "nickname": "쿨찐묵",
       "totalMineral": 704525460,
@@ -170,7 +180,7 @@
       "firstDateText": "26-03-01 (일) 18:16"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "memberId": "704176",
       "nickname": "암armarm",
       "totalMineral": 679926486,
@@ -178,16 +188,6 @@
       "latestDateText": "26-05-21 (목) 00:29",
       "latestReason": "",
       "firstDateText": "26-04-23 (목) 00:39"
-    },
-    {
-      "rank": 17,
-      "memberId": "424461",
-      "nickname": "어나더스토리",
-      "totalMineral": 679221233,
-      "donationCount": 6,
-      "latestDateText": "26-06-12 (금) 15:25",
-      "latestReason": "",
-      "firstDateText": "26-01-14 (수) 20:18"
     },
     {
       "rank": 18,
