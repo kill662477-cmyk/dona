@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-06-22T21:15:26.519Z",
+  "collectedAt": "2026-06-23T20:23:07.683Z",
   "currentStorage": {
-    "text": "10,821,981,353",
-    "mineral": 10821981353
+    "text": "10,728,711,823",
+    "mineral": 10728711823
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 566,
-    "rowsScanned": 7560,
-    "donationRows": 869,
-    "duplicateRowsSkipped": 922
+    "pagesScanned": 567,
+    "rowsScanned": 7571,
+    "donationRows": 871,
+    "duplicateRowsSkipped": 910
   },
   "summary": {
-    "donorCount": 325,
-    "totalDonatedMineral": 56594548096,
-    "top100TotalMineral": 49582669804
+    "donorCount": 326,
+    "totalDonatedMineral": 56675278566,
+    "top100TotalMineral": 49618400274
   },
   "ranking": [
     {
@@ -551,6 +551,16 @@
     },
     {
       "rank": 54,
+      "memberId": "580145",
+      "nickname": "오성이요",
+      "totalMineral": 267133332,
+      "donationCount": 4,
+      "latestDateText": "26-06-23 (화) 17:18",
+      "latestReason": "",
+      "firstDateText": "26-06-16 (화) 08:11"
+    },
+    {
+      "rank": 55,
       "memberId": "701049",
       "nickname": "RaloPakaCalm",
       "totalMineral": 263452000,
@@ -560,7 +570,7 @@
       "firstDateText": "26-02-05 (목) 23:30"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "memberId": "390570",
       "nickname": "추울땐오뎅국물",
       "totalMineral": 256166792,
@@ -570,7 +580,7 @@
       "firstDateText": "26-04-10 (금) 23:43"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "memberId": "704425",
       "nickname": "nifer",
       "totalMineral": 243100399,
@@ -580,7 +590,7 @@
       "firstDateText": "26-03-05 (목) 13:39"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "memberId": "479406",
       "nickname": "차가운함아",
       "totalMineral": 240000000,
@@ -590,7 +600,7 @@
       "firstDateText": "26-01-09 (금) 18:05"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "memberId": "698875",
       "nickname": "눈팅익",
       "totalMineral": 240000000,
@@ -598,16 +608,6 @@
       "latestDateText": "26-01-13 (화) 14:14",
       "latestReason": "부천남자 전달부탁드립니다.",
       "firstDateText": "25-11-12 (수) 17:57"
-    },
-    {
-      "rank": 59,
-      "memberId": "580145",
-      "nickname": "오성이요",
-      "totalMineral": 231402862,
-      "donationCount": 3,
-      "latestDateText": "26-06-22 (월) 09:43",
-      "latestReason": "",
-      "firstDateText": "26-06-16 (화) 08:11"
     },
     {
       "rank": 60,
