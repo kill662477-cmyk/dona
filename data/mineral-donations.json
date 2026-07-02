@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-01T20:11:10.107Z",
+  "collectedAt": "2026-07-02T19:49:52.874Z",
   "currentStorage": {
-    "text": "10,822,392,171",
-    "mineral": 10822392171
+    "text": "10,891,392,171",
+    "mineral": 10891392171
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 596,
-    "rowsScanned": 7961,
-    "donationRows": 901,
-    "duplicateRowsSkipped": 935
+    "pagesScanned": 597,
+    "rowsScanned": 7975,
+    "donationRows": 902,
+    "duplicateRowsSkipped": 932
   },
   "summary": {
     "donorCount": 330,
-    "totalDonatedMineral": 62090458914,
-    "top100TotalMineral": 54621457746
+    "totalDonatedMineral": 62290458914,
+    "top100TotalMineral": 54821457746
   },
   "ranking": [
     {
@@ -151,6 +151,16 @@
     },
     {
       "rank": 14,
+      "memberId": "700200",
+      "nickname": "암두fan",
+      "totalMineral": 908437579,
+      "donationCount": 9,
+      "latestDateText": "26-07-03 (금) 03:02",
+      "latestReason": "이벤트 당첨자 지급해주세용",
+      "firstDateText": "26-03-05 (목) 19:01"
+    },
+    {
+      "rank": 15,
       "memberId": "668108",
       "nickname": "저그반수호자",
       "totalMineral": 881741759,
@@ -160,7 +170,7 @@
       "firstDateText": "25-05-16 (금) 00:27"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "memberId": "424461",
       "nickname": "어나더스토리",
       "totalMineral": 879221233,
@@ -170,7 +180,7 @@
       "firstDateText": "26-01-14 (수) 20:18"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "memberId": "704176",
       "nickname": "암armarm",
       "totalMineral": 782185275,
@@ -180,7 +190,7 @@
       "firstDateText": "26-04-23 (목) 00:39"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "memberId": "702830",
       "nickname": "대함민국",
       "totalMineral": 752158163,
@@ -190,7 +200,7 @@
       "firstDateText": "26-05-24 (일) 16:45"
     },
     {
-      "rank": 18,
+      "rank": 19,
       "memberId": "518650",
       "nickname": "함바짐사장유나니",
       "totalMineral": 740000000,
@@ -198,16 +208,6 @@
       "latestDateText": "26-06-29 (월) 00:59",
       "latestReason": "미징어 4회 우승 기념",
       "firstDateText": "26-06-15 (월) 23:23"
-    },
-    {
-      "rank": 19,
-      "memberId": "700200",
-      "nickname": "암두fan",
-      "totalMineral": 708437579,
-      "donationCount": 8,
-      "latestDateText": "26-06-25 (목) 05:45",
-      "latestReason": "이벤트해줘",
-      "firstDateText": "26-03-05 (목) 19:01"
     },
     {
       "rank": 20,
