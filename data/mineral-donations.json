@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-09T20:04:17.045Z",
+  "collectedAt": "2026-07-10T19:51:04.214Z",
   "currentStorage": {
-    "text": "10,656,958,550",
-    "mineral": 10656958550
+    "text": "10,651,795,819",
+    "mineral": 10651795819
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 602,
-    "rowsScanned": 8043,
-    "donationRows": 914,
-    "duplicateRowsSkipped": 959
+    "pagesScanned": 603,
+    "rowsScanned": 8057,
+    "donationRows": 917,
+    "duplicateRowsSkipped": 956
   },
   "summary": {
-    "donorCount": 336,
-    "totalDonatedMineral": 66776525443,
-    "top100TotalMineral": 58940495895
+    "donorCount": 338,
+    "totalDonatedMineral": 67100862712,
+    "top100TotalMineral": 59092728306
   },
   "ranking": [
     {
@@ -91,6 +91,16 @@
     },
     {
       "rank": 8,
+      "memberId": "607616",
+      "nickname": "류류한",
+      "totalMineral": 1253870602,
+      "donationCount": 10,
+      "latestDateText": "26-07-10 (금) 11:47",
+      "latestReason": "찌찌커",
+      "firstDateText": "25-08-16 (토) 23:54"
+    },
+    {
+      "rank": 9,
       "memberId": "703365",
       "nickname": "유난이삐져또",
       "totalMineral": 1226800000,
@@ -100,7 +110,7 @@
       "firstDateText": "26-03-07 (토) 16:25"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "memberId": "670146",
       "nickname": "42195km",
       "totalMineral": 1178543019,
@@ -108,16 +118,6 @@
       "latestDateText": "26-07-01 (수) 19:26",
       "latestReason": "",
       "firstDateText": "25-06-24 (화) 02:10"
-    },
-    {
-      "rank": 10,
-      "memberId": "607616",
-      "nickname": "류류한",
-      "totalMineral": 1103870602,
-      "donationCount": 9,
-      "latestDateText": "26-03-27 (금) 10:40",
-      "latestReason": "킹윤환 5000빵 진출 실패",
-      "firstDateText": "25-08-16 (토) 23:54"
     },
     {
       "rank": 11,
@@ -1011,13 +1011,13 @@
     },
     {
       "rank": 100,
-      "memberId": "570030",
-      "nickname": "유혜디",
-      "totalMineral": 122104858,
+      "memberId": "704424",
+      "nickname": "메카닉두두",
+      "totalMineral": 124337269,
       "donationCount": 1,
-      "latestDateText": "26-05-04 (월) 08:15",
-      "latestReason": "츠퀴탈출",
-      "firstDateText": "26-05-04 (월) 08:15"
+      "latestDateText": "26-07-10 (금) 23:32",
+      "latestReason": "다 털고감 진작 갔어야 했는데 탈을 안했어서 다들 화이팅",
+      "firstDateText": "26-07-10 (금) 23:32"
     }
   ]
 }
