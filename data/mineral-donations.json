@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-21T19:49:39.401Z",
+  "collectedAt": "2026-07-22T19:42:38.439Z",
   "currentStorage": {
-    "text": "11,107,641,445",
-    "mineral": 11107641445
+    "text": "11,272,641,445",
+    "mineral": 11272641445
   },
   "scan": {
     "maxPages": 700,
     "pagesScanned": 618,
-    "rowsScanned": 8244,
-    "donationRows": 946,
-    "duplicateRowsSkipped": 974
+    "rowsScanned": 8250,
+    "donationRows": 949,
+    "duplicateRowsSkipped": 992
   },
   "summary": {
-    "donorCount": 349,
-    "totalDonatedMineral": 71380208337,
-    "top100TotalMineral": 62218953362
+    "donorCount": 350,
+    "totalDonatedMineral": 71690208337,
+    "top100TotalMineral": 62428953362
   },
   "ranking": [
     {
@@ -131,6 +131,16 @@
     },
     {
       "rank": 12,
+      "memberId": "700200",
+      "nickname": "암두fan",
+      "totalMineral": 1153437579,
+      "donationCount": 12,
+      "latestDateText": "26-07-22 (수) 05:30",
+      "latestReason": "1억 5천은 이벤트 당첨자/ 1천은 관리자 몫",
+      "firstDateText": "26-03-05 (목) 19:01"
+    },
+    {
+      "rank": 13,
       "memberId": "647459",
       "nickname": "윤환의검",
       "totalMineral": 1088000000,
@@ -140,7 +150,7 @@
       "firstDateText": "26-02-05 (목) 23:21"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "memberId": "560510",
       "nickname": "미마루",
       "totalMineral": 1000110162,
@@ -148,16 +158,6 @@
       "latestDateText": "26-06-17 (수) 01:52",
       "latestReason": "",
       "firstDateText": "25-10-31 (금) 21:33"
-    },
-    {
-      "rank": 14,
-      "memberId": "700200",
-      "nickname": "암두fan",
-      "totalMineral": 993437579,
-      "donationCount": 11,
-      "latestDateText": "26-07-14 (화) 05:02",
-      "latestReason": "6천은 당첨자 5백은 관리자 몫",
-      "firstDateText": "26-03-05 (목) 19:01"
     },
     {
       "rank": 15,
@@ -641,6 +641,16 @@
     },
     {
       "rank": 63,
+      "memberId": "706590",
+      "nickname": "암리컨",
+      "totalMineral": 280000000,
+      "donationCount": 5,
+      "latestDateText": "26-07-22 (수) 19:38",
+      "latestReason": "좋은데써라",
+      "firstDateText": "26-07-10 (금) 17:05"
+    },
+    {
+      "rank": 64,
       "memberId": "703940",
       "nickname": "djfjfb",
       "totalMineral": 280000000,
@@ -650,7 +660,7 @@
       "firstDateText": "26-02-05 (목) 23:10"
     },
     {
-      "rank": 64,
+      "rank": 65,
       "memberId": "703304",
       "nickname": "돌아온암아",
       "totalMineral": 277245791,
@@ -660,7 +670,7 @@
       "firstDateText": "26-01-13 (화) 18:27"
     },
     {
-      "rank": 65,
+      "rank": 66,
       "memberId": "702046",
       "nickname": "nolmong",
       "totalMineral": 277000000,
@@ -670,7 +680,7 @@
       "firstDateText": "26-01-16 (금) 15:52"
     },
     {
-      "rank": 66,
+      "rank": 67,
       "memberId": "701049",
       "nickname": "RaloPakaCalm",
       "totalMineral": 263452000,
@@ -680,7 +690,7 @@
       "firstDateText": "26-02-05 (목) 23:30"
     },
     {
-      "rank": 67,
+      "rank": 68,
       "memberId": "390570",
       "nickname": "추울땐오뎅국물",
       "totalMineral": 256166792,
@@ -690,7 +700,7 @@
       "firstDateText": "26-04-10 (금) 23:43"
     },
     {
-      "rank": 68,
+      "rank": 69,
       "memberId": "704425",
       "nickname": "nifer",
       "totalMineral": 243100399,
@@ -700,7 +710,7 @@
       "firstDateText": "26-03-05 (목) 13:39"
     },
     {
-      "rank": 69,
+      "rank": 70,
       "memberId": "479406",
       "nickname": "차가운함아",
       "totalMineral": 240000000,
@@ -710,7 +720,7 @@
       "firstDateText": "26-01-09 (금) 18:05"
     },
     {
-      "rank": 70,
+      "rank": 71,
       "memberId": "698875",
       "nickname": "눈팅익",
       "totalMineral": 240000000,
@@ -718,16 +728,6 @@
       "latestDateText": "26-01-13 (화) 14:14",
       "latestReason": "부천남자 전달부탁드립니다.",
       "firstDateText": "25-11-12 (수) 17:57"
-    },
-    {
-      "rank": 71,
-      "memberId": "706590",
-      "nickname": "암리컨",
-      "totalMineral": 230000000,
-      "donationCount": 4,
-      "latestDateText": "26-07-19 (일) 10:06",
-      "latestReason": "좋은데써라",
-      "firstDateText": "26-07-10 (금) 17:05"
     },
     {
       "rank": 72,
