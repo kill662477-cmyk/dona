@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-22T19:42:38.439Z",
+  "collectedAt": "2026-07-23T19:43:39.436Z",
   "currentStorage": {
-    "text": "11,272,641,445",
-    "mineral": 11272641445
+    "text": "11,270,141,445",
+    "mineral": 11270141445
   },
   "scan": {
     "maxPages": 700,
     "pagesScanned": 618,
-    "rowsScanned": 8250,
-    "donationRows": 949,
-    "duplicateRowsSkipped": 992
+    "rowsScanned": 8256,
+    "donationRows": 950,
+    "duplicateRowsSkipped": 1010
   },
   "summary": {
-    "donorCount": 350,
-    "totalDonatedMineral": 71690208337,
-    "top100TotalMineral": 62428953362
+    "donorCount": 351,
+    "totalDonatedMineral": 71840208337,
+    "top100TotalMineral": 62438077984
   },
   "ranking": [
     {
@@ -991,6 +991,16 @@
     },
     {
       "rank": 98,
+      "memberId": "704615",
+      "nickname": "영상따줘",
+      "totalMineral": 150000000,
+      "donationCount": 1,
+      "latestDateText": "26-07-23 (목) 05:13",
+      "latestReason": "사맙시에게 전달 부탁드립니다",
+      "firstDateText": "26-07-23 (목) 05:13"
+    },
+    {
+      "rank": 99,
       "memberId": "706778",
       "nickname": "비타밍",
       "totalMineral": 150000000,
@@ -1000,7 +1010,7 @@
       "firstDateText": "26-07-13 (월) 22:30"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "memberId": "542179",
       "nickname": "술좋아하는사람",
       "totalMineral": 146000000,
@@ -1008,16 +1018,6 @@
       "latestDateText": "26-05-04 (월) 21:42",
       "latestReason": "다들 재밌었어",
       "firstDateText": "26-05-04 (월) 21:42"
-    },
-    {
-      "rank": 100,
-      "memberId": "703674",
-      "nickname": "딸기모찌_",
-      "totalMineral": 140875378,
-      "donationCount": 3,
-      "latestDateText": "26-06-16 (화) 01:25",
-      "latestReason": "",
-      "firstDateText": "26-01-10 (토) 14:00"
     }
   ]
 }
