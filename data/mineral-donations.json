@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-23T19:43:39.436Z",
+  "collectedAt": "2026-07-24T19:46:05.247Z",
   "currentStorage": {
-    "text": "11,270,141,445",
-    "mineral": 11270141445
+    "text": "11,145,141,445",
+    "mineral": 11145141445
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 618,
-    "rowsScanned": 8256,
-    "donationRows": 950,
-    "duplicateRowsSkipped": 1010
+    "pagesScanned": 620,
+    "rowsScanned": 8271,
+    "donationRows": 952,
+    "duplicateRowsSkipped": 997
   },
   "summary": {
     "donorCount": 351,
-    "totalDonatedMineral": 71840208337,
-    "top100TotalMineral": 62438077984
+    "totalDonatedMineral": 71860208337,
+    "top100TotalMineral": 62458077984
   },
   "ranking": [
     {
@@ -531,6 +531,16 @@
     },
     {
       "rank": 52,
+      "memberId": "701265",
+      "nickname": "폭탄공장막긴혀따",
+      "totalMineral": 363549278,
+      "donationCount": 13,
+      "latestDateText": "26-07-25 (토) 00:11",
+      "latestReason": "래기통 이스코어우승축하",
+      "firstDateText": "25-11-15 (토) 22:34"
+    },
+    {
+      "rank": 53,
       "memberId": "437506",
       "nickname": "인생은잣같다",
       "totalMineral": 363054624,
@@ -540,7 +550,17 @@
       "firstDateText": "25-08-01 (금) 12:11"
     },
     {
-      "rank": 53,
+      "rank": 54,
+      "memberId": "701351",
+      "nickname": "영구제김윤환",
+      "totalMineral": 357954605,
+      "donationCount": 16,
+      "latestDateText": "26-07-24 (금) 11:32",
+      "latestReason": "",
+      "firstDateText": "25-11-01 (토) 01:23"
+    },
+    {
+      "rank": 55,
       "memberId": "612532",
       "nickname": "컨텐츠평론가",
       "totalMineral": 353733689,
@@ -550,17 +570,7 @@
       "firstDateText": "26-01-21 (수) 01:54"
     },
     {
-      "rank": 54,
-      "memberId": "701265",
-      "nickname": "폭탄공장막긴혀따",
-      "totalMineral": 353549278,
-      "donationCount": 12,
-      "latestDateText": "26-07-20 (월) 18:07",
-      "latestReason": "이런병신같은빌드 추모",
-      "firstDateText": "25-11-15 (토) 22:34"
-    },
-    {
-      "rank": 55,
+      "rank": 56,
       "memberId": "701770",
       "nickname": "여우같은곰",
       "totalMineral": 350000000,
@@ -568,16 +578,6 @@
       "latestDateText": "26-07-19 (일) 05:33",
       "latestReason": "버로우암글링에게 부탁",
       "firstDateText": "26-03-04 (수) 16:50"
-    },
-    {
-      "rank": 56,
-      "memberId": "701351",
-      "nickname": "영구제김윤환",
-      "totalMineral": 347954605,
-      "donationCount": 15,
-      "latestDateText": "26-03-09 (월) 11:32",
-      "latestReason": "",
-      "firstDateText": "25-11-01 (토) 01:23"
     },
     {
       "rank": 57,
