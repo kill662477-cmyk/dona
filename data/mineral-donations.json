@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-24T19:46:05.247Z",
+  "collectedAt": "2026-07-25T19:26:31.748Z",
   "currentStorage": {
-    "text": "11,145,141,445",
-    "mineral": 11145141445
+    "text": "11,213,693,700",
+    "mineral": 11213693700
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 620,
-    "rowsScanned": 8271,
-    "donationRows": 952,
-    "duplicateRowsSkipped": 997
+    "pagesScanned": 621,
+    "rowsScanned": 8287,
+    "donationRows": 955,
+    "duplicateRowsSkipped": 1008
   },
   "summary": {
     "donorCount": 351,
-    "totalDonatedMineral": 71860208337,
-    "top100TotalMineral": 62458077984
+    "totalDonatedMineral": 72004760592,
+    "top100TotalMineral": 62467630239
   },
   "ranking": [
     {
@@ -551,6 +551,16 @@
     },
     {
       "rank": 54,
+      "memberId": "701770",
+      "nickname": "여우같은곰",
+      "totalMineral": 359552255,
+      "donationCount": 4,
+      "latestDateText": "26-07-25 (토) 20:43",
+      "latestReason": "ㅎㅎ 쪽지가 너무 와 와탈",
+      "firstDateText": "26-03-04 (수) 16:50"
+    },
+    {
+      "rank": 55,
       "memberId": "701351",
       "nickname": "영구제김윤환",
       "totalMineral": 357954605,
@@ -560,7 +570,7 @@
       "firstDateText": "25-11-01 (토) 01:23"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "memberId": "612532",
       "nickname": "컨텐츠평론가",
       "totalMineral": 353733689,
@@ -568,16 +578,6 @@
       "latestDateText": "26-01-21 (수) 01:54",
       "latestReason": "김윤환 병신 겁쟁이새끼",
       "firstDateText": "26-01-21 (수) 01:54"
-    },
-    {
-      "rank": 56,
-      "memberId": "701770",
-      "nickname": "여우같은곰",
-      "totalMineral": 350000000,
-      "donationCount": 3,
-      "latestDateText": "26-07-19 (일) 05:33",
-      "latestReason": "버로우암글링에게 부탁",
-      "firstDateText": "26-03-04 (수) 16:50"
     },
     {
       "rank": 57,
