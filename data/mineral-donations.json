@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-07-29T19:42:00.947Z",
+  "collectedAt": "2026-07-30T19:49:49.404Z",
   "currentStorage": {
-    "text": "15,382,426,955",
-    "mineral": 15382426955
+    "text": "9,655,855,934",
+    "mineral": 9655855934
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 624,
-    "rowsScanned": 8328,
-    "donationRows": 968,
-    "duplicateRowsSkipped": 1000
+    "pagesScanned": 639,
+    "rowsScanned": 8461,
+    "donationRows": 969,
+    "duplicateRowsSkipped": 1080
   },
   "summary": {
     "donorCount": 353,
-    "totalDonatedMineral": 76748493847,
-    "top100TotalMineral": 66649481493
+    "totalDonatedMineral": 76776922826,
+    "top100TotalMineral": 66677910472
   },
   "ranking": [
     {
@@ -93,9 +93,9 @@
       "rank": 8,
       "memberId": "607616",
       "nickname": "류류한",
-      "totalMineral": 1320613423,
-      "donationCount": 13,
-      "latestDateText": "26-07-28 (화) 20:17",
+      "totalMineral": 1349042402,
+      "donationCount": 14,
+      "latestDateText": "26-07-30 (목) 20:50",
       "latestReason": "",
       "firstDateText": "25-08-16 (토) 23:54"
     },
