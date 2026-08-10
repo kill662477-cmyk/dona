@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-08-09T18:59:52.759Z",
+  "collectedAt": "2026-08-10T19:14:29.881Z",
   "currentStorage": {
-    "text": "15,265,154,942",
-    "mineral": 15265154942
+    "text": "13,842,154,942",
+    "mineral": 13842154942
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 666,
-    "rowsScanned": 8744,
-    "donationRows": 994,
-    "duplicateRowsSkipped": 1246
+    "pagesScanned": 670,
+    "rowsScanned": 8788,
+    "donationRows": 999,
+    "duplicateRowsSkipped": 1238
   },
   "summary": {
-    "donorCount": 359,
-    "totalDonatedMineral": 88529721834,
-    "top100TotalMineral": 77342930219
+    "donorCount": 360,
+    "totalDonatedMineral": 88579721834,
+    "top100TotalMineral": 77362930219
   },
   "ranking": [
     {
@@ -33,10 +33,10 @@
       "rank": 2,
       "memberId": "703365",
       "nickname": "유난이삐져또",
-      "totalMineral": 4926800000,
-      "donationCount": 12,
-      "latestDateText": "26-08-05 (수) 21:25",
-      "latestReason": "미안했어 윤환이형",
+      "totalMineral": 4936800000,
+      "donationCount": 13,
+      "latestDateText": "26-08-11 (화) 01:45",
+      "latestReason": "",
       "firstDateText": "26-03-07 (토) 16:25"
     },
     {
@@ -113,10 +113,10 @@
       "rank": 10,
       "memberId": "705022",
       "nickname": "조Ol보Ol",
-      "totalMineral": 1506111111,
-      "donationCount": 4,
-      "latestDateText": "26-08-01 (토) 02:49",
-      "latestReason": "진땅콩 1억 ㄱㄱ",
+      "totalMineral": 1516111111,
+      "donationCount": 5,
+      "latestDateText": "26-08-11 (화) 01:45",
+      "latestReason": "ㅅㅅ",
       "firstDateText": "26-06-23 (화) 22:00"
     },
     {
