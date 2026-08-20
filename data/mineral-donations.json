@@ -1,17 +1,17 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-08-19T18:53:01.393Z",
+  "collectedAt": "2026-08-20T18:58:21.286Z",
   "currentStorage": {
-    "text": "16,553,129,320",
-    "mineral": 16553129320
+    "text": "16,506,629,320",
+    "mineral": 16506629320
   },
   "scan": {
     "maxPages": 700,
     "pagesScanned": 676,
-    "rowsScanned": 8872,
+    "rowsScanned": 8875,
     "donationRows": 1016,
-    "duplicateRowsSkipped": 1248
+    "duplicateRowsSkipped": 1257
   },
   "summary": {
     "donorCount": 366,
