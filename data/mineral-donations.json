@@ -1,22 +1,22 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-08-21T18:55:15.598Z",
+  "collectedAt": "2026-08-22T18:48:56.200Z",
   "currentStorage": {
-    "text": "16,919,263,652",
-    "mineral": 16919263652
+    "text": "15,425,263,652",
+    "mineral": 15425263652
   },
   "scan": {
     "maxPages": 700,
-    "pagesScanned": 677,
-    "rowsScanned": 8879,
-    "donationRows": 1019,
-    "duplicateRowsSkipped": 1224
+    "pagesScanned": 686,
+    "rowsScanned": 8973,
+    "donationRows": 1020,
+    "duplicateRowsSkipped": 1261
   },
   "summary": {
     "donorCount": 367,
-    "totalDonatedMineral": 92608830544,
-    "top100TotalMineral": 80258283071
+    "totalDonatedMineral": 92708830544,
+    "top100TotalMineral": 80358283071
   },
   "ranking": [
     {
@@ -133,10 +133,10 @@
       "rank": 12,
       "memberId": "700200",
       "nickname": "암두fan",
-      "totalMineral": 1353437579,
-      "donationCount": 13,
-      "latestDateText": "26-08-07 (금) 02:34",
-      "latestReason": "추천이벤트 당첨자주세용",
+      "totalMineral": 1453437579,
+      "donationCount": 14,
+      "latestDateText": "26-08-23 (일) 02:51",
+      "latestReason": "추천 이벤트 9,13등 지급해주세요 각5천",
       "firstDateText": "26-03-05 (목) 19:01"
     },
     {
