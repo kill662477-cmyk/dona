@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-07T21:31:02.481Z",
+  "collectedAt": "2026-09-08T21:08:12.206Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -10,13 +10,13 @@
     "maxPages": 700,
     "pagesScanned": 700,
     "rowsScanned": 9192,
-    "donationRows": 1024,
+    "donationRows": 1021,
     "duplicateRowsSkipped": 1308
   },
   "summary": {
     "donorCount": 372,
-    "totalDonatedMineral": 94433645671,
-    "top100TotalMineral": 80936286814
+    "totalDonatedMineral": 94433494610,
+    "top100TotalMineral": 80936285753
   },
   "ranking": [
     {
@@ -32,11 +32,11 @@
     {
       "rank": 2,
       "memberId": "703365",
-      "nickname": "유난이삐져또",
+      "nickname": "유난이삐져또 미네랄 기부",
       "totalMineral": 4936800000,
       "donationCount": 13,
       "latestDateText": "26-08-11 01:45",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-03-07 16:25"
     },
     {
@@ -52,11 +52,11 @@
     {
       "rank": 4,
       "memberId": "701343",
-      "nickname": "디즐라이",
+      "nickname": "디즐라이 미네랄 기부",
       "totalMineral": 3419169170,
       "donationCount": 9,
       "latestDateText": "26-08-01 03:27",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:08"
     },
     {
@@ -82,21 +82,21 @@
     {
       "rank": 7,
       "memberId": "695577",
-      "nickname": "시가리쉬",
+      "nickname": "시가리쉬 미네랄 기부",
       "totalMineral": 2666974616,
       "donationCount": 1,
       "latestDateText": "26-02-05 23:07",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:07"
     },
     {
       "rank": 8,
       "memberId": "647893",
-      "nickname": "킹윤환",
+      "nickname": "킹윤환 미네랄 기부",
       "totalMineral": 2393630627,
       "donationCount": 17,
       "latestDateText": "26-08-06 13:02",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-05-16 12:56"
     },
     {
@@ -142,11 +142,11 @@
     {
       "rank": 13,
       "memberId": "607616",
-      "nickname": "류류한",
+      "nickname": "류류한 미네랄 기부",
       "totalMineral": 1349042402,
       "donationCount": 14,
       "latestDateText": "26-07-30 20:50",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-08-16 23:54"
     },
     {
@@ -182,51 +182,51 @@
     {
       "rank": 17,
       "memberId": "701351",
-      "nickname": "영구제김윤환",
+      "nickname": "영구제김윤환 미네랄 기부",
       "totalMineral": 1284871888,
       "donationCount": 26,
       "latestDateText": "26-08-25 10:09",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-11-01 01:23"
     },
     {
       "rank": 18,
       "memberId": "424461",
-      "nickname": "어나더스토리",
+      "nickname": "어나더스토리 미네랄 기부",
       "totalMineral": 1280977168,
       "donationCount": 12,
       "latestDateText": "26-09-05 00:44",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-01-14 20:18"
     },
     {
       "rank": 19,
       "memberId": "670146",
-      "nickname": "42195km",
+      "nickname": "42195km 미네랄 기부",
       "totalMineral": 1178543019,
       "donationCount": 3,
       "latestDateText": "26-07-01 19:26",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-06-24 02:10"
     },
     {
       "rank": 20,
       "memberId": "647459",
-      "nickname": "윤환의검",
+      "nickname": "윤환의검 미네랄 기부",
       "totalMineral": 1088000000,
       "donationCount": 11,
       "latestDateText": "26-07-07 14:14",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:21"
     },
     {
       "rank": 21,
       "memberId": "560510",
-      "nickname": "미마루",
+      "nickname": "미마루 미네랄 기부",
       "totalMineral": 1000110162,
       "donationCount": 6,
       "latestDateText": "26-06-17 01:52",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-10-31 21:33"
     },
     {
@@ -263,11 +263,11 @@
       "rank": 25,
       "memberId": "668108",
       "nickname": "저그반수호자 게시판 광고료",
-      "totalMineral": 880394952,
-      "donationCount": 15,
+      "totalMineral": 880393891,
+      "donationCount": 14,
       "latestDateText": "26-04-13 14:18",
       "latestReason": "게시판 광고료",
-      "firstDateText": "25-05-16 12:31"
+      "firstDateText": "25-05-20 12:41"
     },
     {
       "rank": 26,
@@ -292,41 +292,41 @@
     {
       "rank": 28,
       "memberId": "704176",
-      "nickname": "암armarm",
+      "nickname": "암armarm 미네랄 기부",
       "totalMineral": 782185275,
       "donationCount": 4,
       "latestDateText": "26-06-29 01:31",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-04-23 00:39"
     },
     {
       "rank": 29,
       "memberId": "668272",
-      "nickname": "uswo01",
+      "nickname": "uswo01 미네랄 기부",
       "totalMineral": 777166525,
       "donationCount": 2,
       "latestDateText": "26-07-26 10:35",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:37"
     },
     {
       "rank": 30,
       "memberId": "702830",
-      "nickname": "대함민국",
+      "nickname": "대함민국 미네랄 기부",
       "totalMineral": 752158163,
       "donationCount": 2,
       "latestDateText": "26-06-15 18:56",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-05-24 16:45"
     },
     {
       "rank": 31,
       "memberId": "560984",
-      "nickname": "기다리는사람임",
+      "nickname": "기다리는사람임 미네랄 기부",
       "totalMineral": 707381619,
       "donationCount": 9,
       "latestDateText": "26-05-04 13:26",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-11 19:57"
     },
     {
@@ -372,11 +372,11 @@
     {
       "rank": 36,
       "memberId": "701976",
-      "nickname": "진땅콩",
+      "nickname": "진땅콩 미네랄 기부",
       "totalMineral": 610000000,
       "donationCount": 2,
       "latestDateText": "26-08-04 00:49",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-09-22 23:19"
     },
     {
@@ -392,21 +392,21 @@
     {
       "rank": 38,
       "memberId": "694654",
-      "nickname": "나의_영웅_김윤환",
+      "nickname": "나의_영웅_김윤환 미네랄 기부",
       "totalMineral": 602028170,
       "donationCount": 3,
       "latestDateText": "26-02-07 16:51",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-06-09 02:20"
     },
     {
       "rank": 39,
       "memberId": "697986",
-      "nickname": "부산남자",
+      "nickname": "부산남자 미네랄 기부",
       "totalMineral": 573000000,
       "donationCount": 5,
       "latestDateText": "26-02-05 23:05",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-06-24 00:15"
     },
     {
@@ -532,11 +532,11 @@
     {
       "rank": 52,
       "memberId": "706574",
-      "nickname": "르무통",
+      "nickname": "르무통 미네랄 기부",
       "totalMineral": 439196516,
       "donationCount": 2,
       "latestDateText": "26-08-12 08:13",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-07-27 12:36"
     },
     {
@@ -562,21 +562,21 @@
     {
       "rank": 55,
       "memberId": "702319",
-      "nickname": "계학정학혜학",
+      "nickname": "계학정학혜학 미네랄 기부",
       "totalMineral": 395911813,
       "donationCount": 2,
       "latestDateText": "26-08-02 23:22",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:16"
     },
     {
       "rank": 56,
       "memberId": "580145",
-      "nickname": "오성이요",
+      "nickname": "오성이요 미네랄 기부",
       "totalMineral": 388847086,
       "donationCount": 9,
       "latestDateText": "26-06-30 08:00",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-06-16 08:11"
     },
     {
@@ -612,11 +612,11 @@
     {
       "rank": 60,
       "memberId": "705074",
-      "nickname": "유사야수",
+      "nickname": "유사야수 미네랄 기부",
       "totalMineral": 371272120,
       "donationCount": 6,
       "latestDateText": "26-06-05 00:25",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-03-23 23:07"
     },
     {
@@ -662,11 +662,11 @@
     {
       "rank": 65,
       "memberId": "437506",
-      "nickname": "인생은잣같다",
+      "nickname": "인생은잣같다 미네랄 기부",
       "totalMineral": 363054624,
       "donationCount": 2,
       "latestDateText": "26-06-01 18:45",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "25-08-01 12:11"
     },
     {
@@ -692,11 +692,11 @@
     {
       "rank": 68,
       "memberId": "572651",
-      "nickname": "뇌빈이",
+      "nickname": "뇌빈이 미네랄 기부",
       "totalMineral": 344530550,
       "donationCount": 1,
       "latestDateText": "26-09-04 23:51",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-09-04 23:51"
     },
     {
@@ -722,11 +722,11 @@
     {
       "rank": 71,
       "memberId": "486416",
-      "nickname": "온프로이",
+      "nickname": "온프로이 미네랄 기부",
       "totalMineral": 305699613,
       "donationCount": 3,
       "latestDateText": "26-01-30 13:15",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-01-21 21:15"
     },
     {
@@ -812,11 +812,11 @@
     {
       "rank": 80,
       "memberId": "704659",
-      "nickname": "사이드푸쉬",
+      "nickname": "사이드푸쉬 미네랄 기부",
       "totalMineral": 270000000,
       "donationCount": 1,
       "latestDateText": "26-08-15 23:32",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-08-15 23:32"
     },
     {
@@ -922,11 +922,11 @@
     {
       "rank": 91,
       "memberId": "707957",
-      "nickname": "하블리쟈드",
+      "nickname": "하블리쟈드 미네랄 기부",
       "totalMineral": 210000000,
       "donationCount": 1,
       "latestDateText": "26-08-17 00:33",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-08-17 00:33"
     },
     {
@@ -942,31 +942,31 @@
     {
       "rank": 93,
       "memberId": "702978",
-      "nickname": "쫑비르",
+      "nickname": "쫑비르 미네랄 기부",
       "totalMineral": 200000000,
       "donationCount": 2,
       "latestDateText": "26-02-01 10:59",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-01-21 21:09"
     },
     {
       "rank": 94,
       "memberId": "708245",
-      "nickname": "마토짐꾼윤환",
+      "nickname": "마토짐꾼윤환 미네랄 기부",
       "totalMineral": 200000000,
       "donationCount": 2,
       "latestDateText": "26-09-07 03:38",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-09-01 16:49"
     },
     {
       "rank": 95,
       "memberId": "127489",
-      "nickname": "암택뱅리쌍",
+      "nickname": "암택뱅리쌍 미네랄 기부",
       "totalMineral": 200000000,
       "donationCount": 1,
       "latestDateText": "26-08-08 23:36",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-08-08 23:36"
     },
     {
@@ -982,21 +982,21 @@
     {
       "rank": 97,
       "memberId": "703514",
-      "nickname": "캄몬스타즈",
+      "nickname": "캄몬스타즈 미네랄 기부",
       "totalMineral": 198933682,
       "donationCount": 3,
       "latestDateText": "26-06-23 03:59",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-03-26 02:30"
     },
     {
       "rank": 98,
       "memberId": "703126",
-      "nickname": "42195km",
+      "nickname": "42195km 미네랄 기부",
       "totalMineral": 198571141,
       "donationCount": 2,
       "latestDateText": "26-02-21 08:06",
-      "latestReason": "",
+      "latestReason": "미네랄 기부",
       "firstDateText": "26-02-05 23:37"
     },
     {
