@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-08T21:08:12.206Z",
+  "collectedAt": "2026-09-09T20:57:01.663Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -9,14 +9,14 @@
   "scan": {
     "maxPages": 700,
     "pagesScanned": 700,
-    "rowsScanned": 9192,
-    "donationRows": 1021,
-    "duplicateRowsSkipped": 1308
+    "rowsScanned": 9189,
+    "donationRows": 1009,
+    "duplicateRowsSkipped": 1311
   },
   "summary": {
     "donorCount": 372,
-    "totalDonatedMineral": 94433494610,
-    "top100TotalMineral": 80936285753
+    "totalDonatedMineral": 94669732697,
+    "top100TotalMineral": 81038316398
   },
   "ranking": [
     {
@@ -93,11 +93,11 @@
       "rank": 8,
       "memberId": "647893",
       "nickname": "킹윤환 미네랄 기부",
-      "totalMineral": 2393630627,
-      "donationCount": 17,
+      "totalMineral": 2393610505,
+      "donationCount": 15,
       "latestDateText": "26-08-06 13:02",
       "latestReason": "미네랄 기부",
-      "firstDateText": "25-05-16 12:56"
+      "firstDateText": "25-05-17 12:07"
     },
     {
       "rank": 9,
@@ -261,6 +261,16 @@
     },
     {
       "rank": 25,
+      "memberId": "700855",
+      "nickname": "저그반살려내 미네랄 기부",
+      "totalMineral": 904358849,
+      "donationCount": 2,
+      "latestDateText": "26-09-10 05:46",
+      "latestReason": "미네랄 기부",
+      "firstDateText": "26-07-11 21:44"
+    },
+    {
+      "rank": 26,
       "memberId": "668108",
       "nickname": "저그반수호자 게시판 광고료",
       "totalMineral": 880393891,
@@ -270,7 +280,7 @@
       "firstDateText": "25-05-20 12:41"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "memberId": "705148",
       "nickname": "씨나인우승 츠캄이라도 너넨 잘되라",
       "totalMineral": 827138444,
@@ -278,16 +288,6 @@
       "latestDateText": "26-07-28 04:17",
       "latestReason": "츠캄이라도 너넨 잘되라",
       "firstDateText": "26-07-28 04:17"
-    },
-    {
-      "rank": 27,
-      "memberId": "700855",
-      "nickname": "저그반살려내 외화벌어왔다 형이야",
-      "totalMineral": 802308082,
-      "donationCount": 1,
-      "latestDateText": "26-07-11 21:44",
-      "latestReason": "외화벌어왔다 형이야",
-      "firstDateText": "26-07-11 21:44"
     },
     {
       "rank": 28,
