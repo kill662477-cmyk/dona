@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-10T20:51:38.948Z",
+  "collectedAt": "2026-09-11T20:58:02.027Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -14,9 +14,9 @@
     "duplicateRowsSkipped": 1312
   },
   "summary": {
-    "donorCount": 374,
-    "totalDonatedMineral": 94979803871,
-    "top100TotalMineral": 81048209508
+    "donorCount": 378,
+    "totalDonatedMineral": 95587837871,
+    "top100TotalMineral": 81159320619
   },
   "ranking": [
     {
@@ -32,11 +32,11 @@
     {
       "rank": 2,
       "memberId": "703365",
-      "nickname": "유난이삐져또 미네랄 기부",
-      "totalMineral": 4936800000,
-      "donationCount": 13,
-      "latestDateText": "26-08-11 01:45",
-      "latestReason": "미네랄 기부",
+      "nickname": "유난이삐져또 이벤트 랄",
+      "totalMineral": 5047911111,
+      "donationCount": 14,
+      "latestDateText": "26-09-12 01:03",
+      "latestReason": "이벤트 랄",
       "firstDateText": "26-03-07 16:25"
     },
     {
