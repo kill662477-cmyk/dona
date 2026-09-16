@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-15T21:19:14.328Z",
+  "collectedAt": "2026-09-16T21:17:56.132Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -9,14 +9,14 @@
   "scan": {
     "maxPages": 700,
     "pagesScanned": 700,
-    "rowsScanned": 9184,
-    "donationRows": 1000,
-    "duplicateRowsSkipped": 1316
+    "rowsScanned": 9183,
+    "donationRows": 994,
+    "duplicateRowsSkipped": 1317
   },
   "summary": {
-    "donorCount": 376,
-    "totalDonatedMineral": 97441366352,
-    "top100TotalMineral": 82635387535
+    "donorCount": 375,
+    "totalDonatedMineral": 97545866345,
+    "top100TotalMineral": 82691816394
   },
   "ranking": [
     {
@@ -331,6 +331,16 @@
     },
     {
       "rank": 32,
+      "memberId": "707427",
+      "nickname": "끼야밍 미네랄 기부",
+      "totalMineral": 715300000,
+      "donationCount": 11,
+      "latestDateText": "26-09-16 18:09",
+      "latestReason": "미네랄 기부",
+      "firstDateText": "26-07-12 13:09"
+    },
+    {
+      "rank": 33,
       "memberId": "560984",
       "nickname": "기다리는사람임 미네랄 기부",
       "totalMineral": 707381619,
@@ -340,7 +350,7 @@
       "firstDateText": "26-02-11 19:57"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "memberId": "700680",
       "nickname": "쿨찐묵 굿바이 ㄹㅇ",
       "totalMineral": 704525460,
@@ -350,7 +360,7 @@
       "firstDateText": "26-03-01 18:16"
     },
     {
-      "rank": 34,
+      "rank": 35,
       "memberId": "702769",
       "nickname": "라바대가리 추가 이벤트랄",
       "totalMineral": 700000000,
@@ -358,16 +368,6 @@
       "latestDateText": "26-06-26 07:44",
       "latestReason": "추가 이벤트랄",
       "firstDateText": "26-02-05 23:13"
-    },
-    {
-      "rank": 35,
-      "memberId": "707427",
-      "nickname": "끼야밍 인간의욕심은끝이없고똑같은실수를반복한다",
-      "totalMineral": 665300000,
-      "donationCount": 10,
-      "latestDateText": "26-09-15 10:40",
-      "latestReason": "인간의욕심은끝이없고똑같은실수를반복한다",
-      "firstDateText": "26-07-12 13:09"
     },
     {
       "rank": 36,
@@ -941,6 +941,16 @@
     },
     {
       "rank": 93,
+      "memberId": "637196",
+      "nickname": "레기 미네랄 기부",
+      "totalMineral": 205000000,
+      "donationCount": 5,
+      "latestDateText": "26-09-16 10:11",
+      "latestReason": "미네랄 기부",
+      "firstDateText": "26-04-29 11:32"
+    },
+    {
+      "rank": 94,
       "memberId": "700727",
       "nickname": "루나리스 판매수 기념!! 이벤트랄 기부랑꽹!!ㄹ.ㅇ",
       "totalMineral": 200000000,
@@ -950,7 +960,7 @@
       "firstDateText": "25-10-31 21:41"
     },
     {
-      "rank": 94,
+      "rank": 95,
       "memberId": "702978",
       "nickname": "쫑비르 미네랄 기부",
       "totalMineral": 200000000,
@@ -960,7 +970,7 @@
       "firstDateText": "26-01-21 21:09"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "memberId": "708245",
       "nickname": "마토짐꾼윤환 미네랄 기부",
       "totalMineral": 200000000,
@@ -970,7 +980,7 @@
       "firstDateText": "26-09-01 16:49"
     },
     {
-      "rank": 96,
+      "rank": 97,
       "memberId": "127489",
       "nickname": "암택뱅리쌍 미네랄 기부",
       "totalMineral": 200000000,
@@ -980,7 +990,7 @@
       "firstDateText": "26-08-08 23:36"
     },
     {
-      "rank": 97,
+      "rank": 98,
       "memberId": "696926",
       "nickname": "암버러지 미네랄 기부",
       "totalMineral": 200000000,
@@ -990,7 +1000,7 @@
       "firstDateText": "26-09-11 04:07"
     },
     {
-      "rank": 98,
+      "rank": 99,
       "memberId": "702034",
       "nickname": "RtoD 수수료 아까워",
       "totalMineral": 200000000,
@@ -1000,7 +1010,7 @@
       "firstDateText": "26-02-05 23:12"
     },
     {
-      "rank": 99,
+      "rank": 100,
       "memberId": "703514",
       "nickname": "캄몬스타즈 미네랄 기부",
       "totalMineral": 198933682,
@@ -1008,16 +1018,6 @@
       "latestDateText": "26-06-23 03:59",
       "latestReason": "미네랄 기부",
       "firstDateText": "26-03-26 02:30"
-    },
-    {
-      "rank": 100,
-      "memberId": "703126",
-      "nickname": "42195km 미네랄 기부",
-      "totalMineral": 198571141,
-      "donationCount": 2,
-      "latestDateText": "26-02-21 08:06",
-      "latestReason": "미네랄 기부",
-      "firstDateText": "26-02-05 23:37"
     }
   ]
 }
