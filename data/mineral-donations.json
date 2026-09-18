@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-17T21:21:08.436Z",
+  "collectedAt": "2026-09-18T20:53:49.517Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -10,24 +10,24 @@
     "maxPages": 700,
     "pagesScanned": 700,
     "rowsScanned": 9179,
-    "donationRows": 990,
+    "donationRows": 971,
     "duplicateRowsSkipped": 1321
   },
   "summary": {
-    "donorCount": 374,
-    "totalDonatedMineral": 97890866219,
-    "top100TotalMineral": 82891816333
+    "donorCount": 372,
+    "totalDonatedMineral": 98018197404,
+    "top100TotalMineral": 82991260381
   },
   "ranking": [
     {
       "rank": 1,
       "memberId": "664084",
       "nickname": "주랑이말고하랑이 사요나라",
-      "totalMineral": 6000000000,
-      "donationCount": 11,
+      "totalMineral": 5999643840,
+      "donationCount": 10,
       "latestDateText": "26-06-28 23:35",
       "latestReason": "사요나라",
-      "firstDateText": "25-05-23 14:32"
+      "firstDateText": "25-06-06 13:05"
     },
     {
       "rank": 2,
@@ -93,11 +93,11 @@
       "rank": 8,
       "memberId": "647893",
       "nickname": "킹윤환 미네랄 기부",
-      "totalMineral": 2393503615,
-      "donationCount": 14,
+      "totalMineral": 2393305295,
+      "donationCount": 13,
       "latestDateText": "26-08-06 13:02",
       "latestReason": "미네랄 기부",
-      "firstDateText": "25-05-27 16:08"
+      "firstDateText": "25-06-04 12:35"
     },
     {
       "rank": 9,
@@ -283,11 +283,11 @@
       "rank": 27,
       "memberId": "668108",
       "nickname": "저그반수호자 게시판 광고료",
-      "totalMineral": 879393891,
-      "donationCount": 13,
+      "totalMineral": 879392419,
+      "donationCount": 12,
       "latestDateText": "26-04-13 14:18",
       "latestReason": "게시판 광고료",
-      "firstDateText": "25-05-23 00:29"
+      "firstDateText": "25-08-27 17:05"
     },
     {
       "rank": 28,
@@ -301,6 +301,16 @@
     },
     {
       "rank": 29,
+      "memberId": "707427",
+      "nickname": "끼야밍 로또1등당첨!! 축하합니다",
+      "totalMineral": 815300000,
+      "donationCount": 12,
+      "latestDateText": "26-09-18 14:05",
+      "latestReason": "로또1등당첨!! 축하합니다",
+      "firstDateText": "26-07-12 13:09"
+    },
+    {
+      "rank": 30,
       "memberId": "704176",
       "nickname": "암armarm 미네랄 기부",
       "totalMineral": 782185275,
@@ -310,7 +320,7 @@
       "firstDateText": "26-04-23 00:39"
     },
     {
-      "rank": 30,
+      "rank": 31,
       "memberId": "668272",
       "nickname": "uswo01 미네랄 기부",
       "totalMineral": 777166525,
@@ -320,7 +330,7 @@
       "firstDateText": "26-02-05 23:37"
     },
     {
-      "rank": 31,
+      "rank": 32,
       "memberId": "702830",
       "nickname": "대함민국 미네랄 기부",
       "totalMineral": 752158163,
@@ -328,16 +338,6 @@
       "latestDateText": "26-06-15 18:56",
       "latestReason": "미네랄 기부",
       "firstDateText": "26-05-24 16:45"
-    },
-    {
-      "rank": 32,
-      "memberId": "707427",
-      "nickname": "끼야밍 미네랄 기부",
-      "totalMineral": 715300000,
-      "donationCount": 11,
-      "latestDateText": "26-09-16 18:09",
-      "latestReason": "미네랄 기부",
-      "firstDateText": "26-07-12 13:09"
     },
     {
       "rank": 33,
