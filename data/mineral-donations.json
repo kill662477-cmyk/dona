@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-18T20:53:49.517Z",
+  "collectedAt": "2026-09-19T20:36:31.513Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -14,9 +14,9 @@
     "duplicateRowsSkipped": 1321
   },
   "summary": {
-    "donorCount": 372,
-    "totalDonatedMineral": 98018197404,
-    "top100TotalMineral": 82991260381
+    "donorCount": 371,
+    "totalDonatedMineral": 98035879222,
+    "top100TotalMineral": 83009442199
   },
   "ranking": [
     {
@@ -421,6 +421,16 @@
     },
     {
       "rank": 41,
+      "memberId": "632615",
+      "nickname": "나의영웅밥치리 타구장)remember Mstz_72",
+      "totalMineral": 578323231,
+      "donationCount": 11,
+      "latestDateText": "26-09-19 07:57",
+      "latestReason": "타구장)remember Mstz_72",
+      "firstDateText": "25-10-29 19:34"
+    },
+    {
+      "rank": 42,
       "memberId": "697986",
       "nickname": "부산남자 미네랄 기부",
       "totalMineral": 573000000,
@@ -428,16 +438,6 @@
       "latestDateText": "26-02-05 23:05",
       "latestReason": "미네랄 기부",
       "firstDateText": "25-06-24 00:15"
-    },
-    {
-      "rank": 42,
-      "memberId": "632615",
-      "nickname": "돌아온나영밥 슬좆창고 약탈분",
-      "totalMineral": 560141413,
-      "donationCount": 10,
-      "latestDateText": "26-05-05 18:04",
-      "latestReason": "슬좆창고 약탈분",
-      "firstDateText": "25-10-29 19:34"
     },
     {
       "rank": 43,
