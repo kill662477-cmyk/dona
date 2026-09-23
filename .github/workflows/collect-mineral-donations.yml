@@ -29,14 +29,46 @@ jobs:
           MINERAL_REQUEST_DELAY_MS: "120"
           MINERAL_REQUEST_TIMEOUT_MS: "30000"
 
-      - name: Commit updated ranking data
+      - name: Install Chromium
+        run: npx --yes playwright@1.58.2 install --with-deps chromium
+
+      - name: Capture full ranking screenshot
+        run: |
+          python3 -m http.server 4178 --bind 127.0.0.1 >/tmp/dona-server.log 2>&1 &
+          server_pid=$!
+          trap 'kill "$server_pid"' EXIT
+
+          for attempt in {1..30}; do
+            if curl --fail --silent http://127.0.0.1:4178/ >/dev/null; then
+              break
+            fi
+            sleep 1
+          done
+          curl --fail --silent http://127.0.0.1:4178/ >/dev/null
+
+          npx --yes playwright@1.58.2 screenshot \
+            --browser chromium \
+            --viewport-size="1280,720" \
+            --lang="ko-KR" \
+            --timezone="Asia/Seoul" \
+            --color-scheme="dark" \
+            --timeout=60000 \
+            --wait-for-selector=".rank-row" \
+            --wait-for-timeout=1000 \
+            --full-page \
+            http://127.0.0.1:4178/ \
+            screenshot.jpg
+
+          test -s screenshot.jpg
+
+      - name: Commit updated ranking data and screenshot
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/mineral-donations.json
+          git add data/mineral-donations.json screenshot.jpg
           if git diff --cached --quiet; then
-            echo "No mineral ranking changes."
+            echo "No mineral ranking or screenshot changes."
           else
-            git commit -m "Update mineral donation ranking"
+            git commit -m "Update mineral ranking and screenshot"
             git push
           fi
