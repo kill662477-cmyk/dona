@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-09-28T23:15:54.335Z",
+  "collectedAt": "2026-09-29T22:13:53.915Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -15,8 +15,8 @@
   },
   "summary": {
     "donorCount": 371,
-    "totalDonatedMineral": 99393990719,
-    "top100TotalMineral": 83899418878
+    "totalDonatedMineral": 99601352553,
+    "top100TotalMineral": 83999418878
   },
   "ranking": [
     {
@@ -501,6 +501,16 @@
     },
     {
       "rank": 49,
+      "memberId": "706317",
+      "nickname": "먼먼 미네랄 기부",
+      "totalMineral": 475620000,
+      "donationCount": 11,
+      "latestDateText": "26-09-30 04:56",
+      "latestReason": "미네랄 기부",
+      "firstDateText": "26-06-01 12:33"
+    },
+    {
+      "rank": 50,
       "memberId": "694994",
       "nickname": "계집환 나중에옴",
       "totalMineral": 473141872,
@@ -510,7 +520,7 @@
       "firstDateText": "25-06-25 07:48"
     },
     {
-      "rank": 50,
+      "rank": 51,
       "memberId": "384953",
       "nickname": "MyLady72 몬스타즈를 지켜주세요",
       "totalMineral": 472654616,
@@ -520,7 +530,7 @@
       "firstDateText": "26-01-10 16:52"
     },
     {
-      "rank": 51,
+      "rank": 52,
       "memberId": "689632",
       "nickname": "제갈금자 sex sex sex sex sex",
       "totalMineral": 472022222,
@@ -530,7 +540,7 @@
       "firstDateText": "26-05-29 12:22"
     },
     {
-      "rank": 52,
+      "rank": 53,
       "memberId": "381361",
       "nickname": "초로기 가끔 올게요 캄몬화이팅 스대게화이팅",
       "totalMineral": 454134492,
@@ -540,7 +550,7 @@
       "firstDateText": "25-12-08 22:52"
     },
     {
-      "rank": 53,
+      "rank": 54,
       "memberId": "706574",
       "nickname": "르무통 미네랄 기부",
       "totalMineral": 439196516,
@@ -550,7 +560,7 @@
       "firstDateText": "26-07-27 12:36"
     },
     {
-      "rank": 54,
+      "rank": 55,
       "memberId": "608892",
       "nickname": "15m32s 그냥",
       "totalMineral": 400000000,
@@ -560,7 +570,7 @@
       "firstDateText": "26-03-28 13:14"
     },
     {
-      "rank": 55,
+      "rank": 56,
       "memberId": "703024",
       "nickname": "메비우스3 캄몬 이번엔 우승하자",
       "totalMineral": 400000000,
@@ -570,7 +580,7 @@
       "firstDateText": "26-06-30 01:03"
     },
     {
-      "rank": 56,
+      "rank": 57,
       "memberId": "702319",
       "nickname": "계학정학혜학 미네랄 기부",
       "totalMineral": 395911813,
@@ -580,7 +590,7 @@
       "firstDateText": "26-02-05 23:16"
     },
     {
-      "rank": 57,
+      "rank": 58,
       "memberId": "580145",
       "nickname": "오성이요 미네랄 기부",
       "totalMineral": 388847086,
@@ -590,7 +600,7 @@
       "firstDateText": "26-06-16 08:11"
     },
     {
-      "rank": 58,
+      "rank": 59,
       "memberId": "700747",
       "nickname": "종쿠버 정산 실수",
       "totalMineral": 378450889,
@@ -600,7 +610,7 @@
       "firstDateText": "26-02-05 23:35"
     },
     {
-      "rank": 59,
+      "rank": 60,
       "memberId": "665643",
       "nickname": "악당입니다 유저들에게",
       "totalMineral": 377277517,
@@ -610,7 +620,7 @@
       "firstDateText": "26-05-12 12:06"
     },
     {
-      "rank": 60,
+      "rank": 61,
       "memberId": "675403",
       "nickname": "0poipoi 와토 환불",
       "totalMineral": 376360000,
@@ -618,16 +628,6 @@
       "latestDateText": "26-02-05 23:38",
       "latestReason": "와토 환불",
       "firstDateText": "26-02-05 23:38"
-    },
-    {
-      "rank": 61,
-      "memberId": "706317",
-      "nickname": "먼먼 미션 달성 취소 반환: 먼먼 (wannabe)",
-      "totalMineral": 375620000,
-      "donationCount": 10,
-      "latestDateText": "26-09-27 18:42",
-      "latestReason": "미션 달성 취소 반환: 먼먼 (wannabe)",
-      "firstDateText": "26-06-01 12:33"
     },
     {
       "rank": 62,
