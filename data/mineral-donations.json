@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-10-03T21:12:11.111Z",
+  "collectedAt": "2026-10-04T21:19:56.176Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -10,24 +10,24 @@
     "maxPages": 700,
     "pagesScanned": 700,
     "rowsScanned": 9179,
-    "donationRows": 966,
+    "donationRows": 965,
     "duplicateRowsSkipped": 1321
   },
   "summary": {
     "donorCount": 371,
-    "totalDonatedMineral": 100169142306,
-    "top100TotalMineral": 84359348245
+    "totalDonatedMineral": 100168142306,
+    "top100TotalMineral": 84358348245
   },
   "ranking": [
     {
       "rank": 1,
       "memberId": "664084",
       "nickname": "주랑이말고하랑이 사요나라",
-      "totalMineral": 5999643840,
-      "donationCount": 10,
+      "totalMineral": 5998643840,
+      "donationCount": 9,
       "latestDateText": "26-06-28 23:35",
       "latestReason": "사요나라",
-      "firstDateText": "25-06-06 13:05"
+      "firstDateText": "25-08-01 00:51"
     },
     {
       "rank": 2,
