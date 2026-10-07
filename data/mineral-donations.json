@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-10-06T22:39:59.190Z",
+  "collectedAt": "2026-10-07T23:04:27.357Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -9,14 +9,14 @@
   "scan": {
     "maxPages": 700,
     "pagesScanned": 700,
-    "rowsScanned": 9179,
-    "donationRows": 968,
-    "duplicateRowsSkipped": 1321
+    "rowsScanned": 9178,
+    "donationRows": 965,
+    "duplicateRowsSkipped": 1322
   },
   "summary": {
-    "donorCount": 372,
-    "totalDonatedMineral": 101560762796,
-    "top100TotalMineral": 85445320380
+    "donorCount": 371,
+    "totalDonatedMineral": 102152762602,
+    "top100TotalMineral": 85614566934
   },
   "ranking": [
     {
@@ -423,11 +423,11 @@
       "rank": 41,
       "memberId": "694654",
       "nickname": "나의_영웅_김윤환 미네랄 기부",
-      "totalMineral": 602028170,
-      "donationCount": 3,
+      "totalMineral": 600528170,
+      "donationCount": 2,
       "latestDateText": "26-02-07 16:51",
       "latestReason": "미네랄 기부",
-      "firstDateText": "25-06-09 02:20"
+      "firstDateText": "25-06-12 15:18"
     },
     {
       "rank": 42,
@@ -741,6 +741,16 @@
     },
     {
       "rank": 73,
+      "memberId": "703744",
+      "nickname": "알아서해줄게 암게이 화이팅",
+      "totalMineral": 350746554,
+      "donationCount": 3,
+      "latestDateText": "26-10-07 09:11",
+      "latestReason": "암게이 화이팅",
+      "firstDateText": "26-01-04 14:40"
+    },
+    {
+      "rank": 74,
       "memberId": "572651",
       "nickname": "뇌빈이 미네랄 기부",
       "totalMineral": 344530550,
@@ -750,7 +760,7 @@
       "firstDateText": "26-09-04 23:51"
     },
     {
-      "rank": 74,
+      "rank": 75,
       "memberId": "700882",
       "nickname": "33a92d ㅊㄱㅇ",
       "totalMineral": 340889426,
@@ -760,7 +770,7 @@
       "firstDateText": "26-07-04 20:07"
     },
     {
-      "rank": 75,
+      "rank": 76,
       "memberId": "708245",
       "nickname": "마토짐꾼윤환 미네랄 기부",
       "totalMineral": 311304945,
@@ -770,7 +780,7 @@
       "firstDateText": "26-09-01 16:49"
     },
     {
-      "rank": 76,
+      "rank": 77,
       "memberId": "705901",
       "nickname": "캄츠캄츠 쓰셈",
       "totalMineral": 308115375,
@@ -780,7 +790,7 @@
       "firstDateText": "26-05-27 00:13"
     },
     {
-      "rank": 77,
+      "rank": 78,
       "memberId": "486416",
       "nickname": "온프로이 미네랄 기부",
       "totalMineral": 305699613,
@@ -790,7 +800,7 @@
       "firstDateText": "26-01-21 21:15"
     },
     {
-      "rank": 78,
+      "rank": 79,
       "memberId": "637941",
       "nickname": "밤순이 스대게를 위하여...",
       "totalMineral": 305433413,
@@ -800,7 +810,7 @@
       "firstDateText": "26-05-14 17:40"
     },
     {
-      "rank": 79,
+      "rank": 80,
       "memberId": "705058",
       "nickname": "커피시럽 오늘은 이겨보자. 생일 축하!",
       "totalMineral": 300000000,
@@ -810,7 +820,7 @@
       "firstDateText": "26-05-16 00:00"
     },
     {
-      "rank": 80,
+      "rank": 81,
       "memberId": "593780",
       "nickname": "방접환 치리업",
       "totalMineral": 287500000,
@@ -820,7 +830,7 @@
       "firstDateText": "25-09-01 22:40"
     },
     {
-      "rank": 81,
+      "rank": 82,
       "memberId": "697867",
       "nickname": "뚝갈통 와토정산실수되돌려줌",
       "totalMineral": 282270000,
@@ -830,7 +840,7 @@
       "firstDateText": "26-02-05 23:14"
     },
     {
-      "rank": 82,
+      "rank": 83,
       "memberId": "706590",
       "nickname": "암리컨 좋은데써라",
       "totalMineral": 280000000,
@@ -840,7 +850,7 @@
       "firstDateText": "26-07-10 17:05"
     },
     {
-      "rank": 83,
+      "rank": 84,
       "memberId": "703940",
       "nickname": "djfjfb 100000000은 쪽지로 보냄",
       "totalMineral": 280000000,
@@ -850,7 +860,7 @@
       "firstDateText": "26-02-05 23:10"
     },
     {
-      "rank": 84,
+      "rank": 85,
       "memberId": "703304",
       "nickname": "돌아온암아 복귀 안한다 잘 잇어라",
       "totalMineral": 277245791,
@@ -860,7 +870,7 @@
       "firstDateText": "26-01-13 18:27"
     },
     {
-      "rank": 85,
+      "rank": 86,
       "memberId": "702046",
       "nickname": "nolmong 종퀴 와탈한다 츠캄흥해라",
       "totalMineral": 277000000,
@@ -870,7 +880,7 @@
       "firstDateText": "26-01-16 15:52"
     },
     {
-      "rank": 86,
+      "rank": 87,
       "memberId": "704659",
       "nickname": "사이드푸쉬 미네랄 기부",
       "totalMineral": 270000000,
@@ -880,7 +890,7 @@
       "firstDateText": "26-08-15 23:32"
     },
     {
-      "rank": 87,
+      "rank": 88,
       "memberId": "701049",
       "nickname": "RaloPakaCalm cex",
       "totalMineral": 263452000,
@@ -890,7 +900,7 @@
       "firstDateText": "26-02-05 23:30"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "memberId": "390570",
       "nickname": "추울땐오뎅국물 랜능퀴들 질린다 질려 ㅂㅂ",
       "totalMineral": 256166792,
@@ -900,7 +910,7 @@
       "firstDateText": "26-04-10 23:43"
     },
     {
-      "rank": 89,
+      "rank": 90,
       "memberId": "704425",
       "nickname": "nifer ㅅㅂ.. 매일 피쌀거같아서 쉬고옴",
       "totalMineral": 243100399,
@@ -910,7 +920,7 @@
       "firstDateText": "26-03-05 13:39"
     },
     {
-      "rank": 90,
+      "rank": 91,
       "memberId": "479406",
       "nickname": "차가운함아 와탈빵",
       "totalMineral": 240000000,
@@ -920,7 +930,7 @@
       "firstDateText": "26-01-09 18:05"
     },
     {
-      "rank": 91,
+      "rank": 92,
       "memberId": "698875",
       "nickname": "눈팅익 부천남자 전달부탁드립니다.",
       "totalMineral": 240000000,
@@ -930,7 +940,7 @@
       "firstDateText": "25-11-12 17:57"
     },
     {
-      "rank": 92,
+      "rank": 93,
       "memberId": "655139",
       "nickname": "이런병신같은빌드 지급오류",
       "totalMineral": 228747922,
@@ -940,7 +950,7 @@
       "firstDateText": "25-06-12 18:46"
     },
     {
-      "rank": 93,
+      "rank": 94,
       "memberId": "699113",
       "nickname": "숲민이 길태 !",
       "totalMineral": 222478030,
@@ -950,7 +960,17 @@
       "firstDateText": "26-08-21 22:38"
     },
     {
-      "rank": 94,
+      "rank": 95,
+      "memberId": "666323",
+      "nickname": "chovy111 안받습니다",
+      "totalMineral": 220000000,
+      "donationCount": 2,
+      "latestDateText": "26-10-07 11:18",
+      "latestReason": "안받습니다",
+      "firstDateText": "26-09-18 02:08"
+    },
+    {
+      "rank": 96,
       "memberId": "699728",
       "nickname": "종엄령 손심바 회생랄",
       "totalMineral": 217000000,
@@ -960,7 +980,7 @@
       "firstDateText": "25-10-30 03:16"
     },
     {
-      "rank": 95,
+      "rank": 97,
       "memberId": "510721",
       "nickname": "맆핖 츠캄 화이팅..",
       "totalMineral": 216000000,
@@ -970,7 +990,7 @@
       "firstDateText": "26-05-04 13:59"
     },
     {
-      "rank": 96,
+      "rank": 98,
       "memberId": "700229",
       "nickname": "이주민입 윤환이형승리기원",
       "totalMineral": 210000000,
@@ -980,7 +1000,7 @@
       "firstDateText": "26-02-05 23:13"
     },
     {
-      "rank": 97,
+      "rank": 99,
       "memberId": "707957",
       "nickname": "하블리쟈드 미네랄 기부",
       "totalMineral": 210000000,
@@ -990,7 +1010,7 @@
       "firstDateText": "26-08-17 00:33"
     },
     {
-      "rank": 98,
+      "rank": 100,
       "memberId": "637196",
       "nickname": "레기 미네랄 기부",
       "totalMineral": 205000000,
@@ -998,26 +1018,6 @@
       "latestDateText": "26-09-16 10:11",
       "latestReason": "미네랄 기부",
       "firstDateText": "26-04-29 11:32"
-    },
-    {
-      "rank": 99,
-      "memberId": "702978",
-      "nickname": "쫑비르 미네랄 기부",
-      "totalMineral": 200000000,
-      "donationCount": 2,
-      "latestDateText": "26-02-01 10:59",
-      "latestReason": "미네랄 기부",
-      "firstDateText": "26-01-21 21:09"
-    },
-    {
-      "rank": 100,
-      "memberId": "127489",
-      "nickname": "암택뱅리쌍 미네랄 기부",
-      "totalMineral": 200000000,
-      "donationCount": 1,
-      "latestDateText": "26-08-08 23:36",
-      "latestReason": "미네랄 기부",
-      "firstDateText": "26-08-08 23:36"
     }
   ]
 }
