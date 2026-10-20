@@ -1,7 +1,7 @@
 {
   "sourceName": "와이고수 스타대학 미네랄창고",
   "sourceUrl": "https://ygosu.com/board/pan_monstarz/?mode=mineral_storage",
-  "collectedAt": "2026-10-19T22:20:57.502Z",
+  "collectedAt": "2026-10-20T21:36:11.041Z",
   "currentStorage": {
     "text": "",
     "mineral": 0
@@ -9,14 +9,14 @@
   "scan": {
     "maxPages": 700,
     "pagesScanned": 700,
-    "rowsScanned": 9155,
-    "donationRows": 918,
-    "duplicateRowsSkipped": 1345
+    "rowsScanned": 9153,
+    "donationRows": 919,
+    "duplicateRowsSkipped": 1347
   },
   "summary": {
     "donorCount": 360,
-    "totalDonatedMineral": 119807993329,
-    "top100TotalMineral": 101760747166
+    "totalDonatedMineral": 119852993329,
+    "top100TotalMineral": 101805747166
   },
   "ranking": [
     {
@@ -271,6 +271,16 @@
     },
     {
       "rank": 26,
+      "memberId": "560510",
+      "nickname": "미마루 ㅎㅇㅌ",
+      "totalMineral": 1045110162,
+      "donationCount": 7,
+      "latestDateText": "26-10-20 15:56",
+      "latestReason": "ㅎㅇㅌ",
+      "firstDateText": "25-10-31 21:33"
+    },
+    {
+      "rank": 27,
       "memberId": "696056",
       "nickname": "품격 미네랄 기부",
       "totalMineral": 1010000000,
@@ -278,16 +288,6 @@
       "latestDateText": "26-09-14 10:29",
       "latestReason": "미네랄 기부",
       "firstDateText": "26-08-11 01:45"
-    },
-    {
-      "rank": 27,
-      "memberId": "560510",
-      "nickname": "미마루 미네랄 기부",
-      "totalMineral": 1000110162,
-      "donationCount": 6,
-      "latestDateText": "26-06-17 01:52",
-      "latestReason": "미네랄 기부",
-      "firstDateText": "25-10-31 21:33"
     },
     {
       "rank": 28,
